@@ -1,0 +1,135 @@
+// This Pine Script™ code is subject to the terms of the Mozilla Public License 2.0 at https://mozilla.org/MPL/2.0/
+// © fluxchart
+
+//@version=6
+indicator('ORB & PDHL', overlay = true, max_lines_count = 500, max_bars_back = 5000)
+
+int maxBarsBack = last_bar_index
+int renderMaxBarsBack = 5000
+
+orbTimeStr = input.timeframe('60', 'ORB Timeframe', group = 'Algorithm', display = display.none)
+
+// Only the Start Time is used for the custom session — its duration comes from the ORB
+// Timeframe input above.
+customSessionEnabled = input.bool(false, 'Enabled', group = 'Custom Session', display = display.none)
+customSessionTime = input.session('0915-1015', 'Start Time', group = 'Custom Session', display = display.none)
+
+showORBZones = input.bool(true, 'Draw ORB Zones', group = 'ORB Visuals', display = display.none)
+highColor = input.color(color.green, 'High', inline = 'colors', group = 'ORB Visuals')
+lowColor = input.color(color.red, 'Low', inline = 'colors', group = 'ORB Visuals')
+showHistoricZones = input.bool(false, 'Show Historic ORB Zones', group = 'ORB Visuals', display = display.none)
+
+// ───── Inputs ─────
+showPDH_PDL  = input.bool(true, "Show Previous Day High & Low", group = 'PDHL Visuals')
+prevDayHighColor = input.color(color.green, "Previous Day High Color", group = 'PDHL Visuals')
+prevDayLowColor  = input.color(color.red, "Previous Day Low Color", group = 'PDHL Visuals')
+showHistoric = input.bool(false, "Show Historic Previous Day High & Low", group = 'PDHL Visuals')
+
+type ORB
+    float h
+    float l
+    int startTime
+    int startIndex
+    int endIndex
+    bool isLastSession
+
+    string state = 'Opening Range'
+
+    line hLine
+    line lLine
+
+var orbList = array.new<ORB>(0)
+
+createORB(float h, float l, int sT, int sI, int eI) =>
+    ORB.new(h, l, sT, sI, eI)
+
+safeDeleteORB(ORB orb) =>
+    line.delete(orb.hLine)
+    line.delete(orb.lLine)
+
+renderORB(ORB orb) =>
+    if orb.startIndex > last_bar_index - renderMaxBarsBack
+        if showORBZones
+            orb.hLine := line.new(orb.startIndex, orb.h, nz(orb.endIndex, last_bar_index), orb.h, color = highColor, width = 2)
+            orb.lLine := line.new(orb.startIndex, orb.l, nz(orb.endIndex, last_bar_index), orb.l, color = lowColor, width = 2)
+            orb.lLine
+
+ORB lastORB = na
+if orbList.size() > 0
+    lastORB := orbList.get(0)
+    if last_bar_time - time < 60 * 60 * 8 * 1000
+        lastORB.isLastSession := true
+        lastORB.isLastSession
+    else
+        lastORB.isLastSession := false
+        lastORB.isLastSession
+
+sessionBegins(sess) =>
+    t = time('1440', sess)
+    is_first = na(t[1]) and not na(t) or t[1] < t
+    is_first
+
+if barstate.isconfirmed and last_bar_index - bar_index < maxBarsBack
+    // New ORB
+    if not customSessionEnabled and session.isfirstbar_regular or customSessionEnabled and sessionBegins(customSessionTime)
+        // End Last ORB
+        if not na(lastORB)
+            lastORB.endIndex := bar_index - 1
+            lastORB.endIndex
+
+        newORB = createORB(na, na, time, bar_index, na)
+        orbList.unshift(newORB)
+        lastORB := orbList.get(0)
+        lastORB
+
+    // ORB High & Low
+    if not na(lastORB)
+        if lastORB.state == 'Opening Range' and time < lastORB.startTime + timeframe.in_seconds(orbTimeStr) * 1000
+            lastORB.h := math.max(nz(lastORB.h, 0), high)
+            lastORB.l := math.min(nz(lastORB.l, low), low)
+            lastORB.l
+
+        if lastORB.state == 'Opening Range' and time >= lastORB.startTime + timeframe.in_seconds(orbTimeStr) * 1000
+            lastORB.state := 'Range Formed'
+            lastORB.state
+
+if barstate.islast
+    if orbList.size() > 0
+        for i = 0 to showHistoricZones ? orbList.size() - 1 : 0 by 1
+            curORB = orbList.get(i)
+            safeDeleteORB(curORB)
+            renderORB(curORB)
+
+// ───── Previous Day High / Low ─────
+prevHigh = request.security(
+     syminfo.tickerid, "D", high[1],
+     lookahead=barmerge.lookahead_on)
+
+prevLow = request.security(
+     syminfo.tickerid, "D", low[1],
+     lookahead=barmerge.lookahead_on)
+
+// ───── Current Day Detection ─────
+currentYear  = year(timenow)
+currentMonth = month(timenow)
+currentDay   = dayofmonth(timenow)
+
+isCurrentDay = year(time) == currentYear and
+               month(time) == currentMonth and
+               dayofmonth(time) == currentDay
+
+// ───── Display Condition ─────
+showLevels = timeframe.isintraday and
+             showPDH_PDL and
+             (showHistoric or isCurrentDay)
+
+// ───── Plot ─────
+plot(showLevels ? prevHigh : na,
+     title="Previous Day High",
+     color=prevDayHighColor,
+     linewidth=1)
+
+plot(showLevels ? prevLow : na,
+     title="Previous Day Low",
+     color=prevDayLowColor,
+     linewidth=1)
