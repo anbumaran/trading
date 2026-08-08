@@ -1,0 +1,124 @@
+//@version=5
+
+indicator(title='RSI & ATR', shorttitle="RSI & ATR", overlay=true)
+
+RSI_len = input.int(title="RSI length",  minval = 1, maxval = 200, defval=14, group='RSI Settings')
+RSI_Long_Momentum = input.int(title="RSI Bull Momentum Level",  minval = 1, maxval = 100, defval=58, group='RSI Settings')
+RSI_Short_Momentum = input.int(title="RSI Bear Momentum Level",  minval = 1, maxval = 100, defval=42, group='RSI Settings')
+
+ATRPeriod = input(14)
+ATRMultip = input.float(1.5)
+
+tradetime1_temp = input.timeframe(title='Timeframe 1', defval='1', group='Timeframe Hierarchy Settings')
+tradetime2_temp = input.timeframe(title='Timeframe 2', defval='3', group='Timeframe Hierarchy Settings')
+tradetime3_temp = input.timeframe(title='Timeframe 3', defval='15', group='Timeframe Hierarchy Settings')
+tradetime4_temp = input.timeframe(title='Timeframe 4', defval='60', group='Timeframe Hierarchy Settings')
+tradetime5_temp = input.timeframe(title='Timeframe 5', defval='1D', group='Timeframe Hierarchy Settings')
+tradetime6_temp = input.timeframe(title='Timeframe 6', defval='1W', group='Timeframe Hierarchy Settings')
+tradetime7_temp = input.timeframe(title='Timeframe 7', defval='1M', group='Timeframe Hierarchy Settings')
+tradetime8_temp = input.timeframe(title='Timeframe 8', defval='3M', group='Timeframe Hierarchy Settings')
+tradetime9_temp = input.timeframe(title='Timeframe 9', defval='12M', group='Timeframe Hierarchy Settings')
+
+table_position = input.string('bottom_left','RSI Table Position',options=['top_left','top_right','top_center','bottom_left','bottom_right','bottom_center'], inline = "01",group='Generic Style Settings')
+TFTEXTSIZE  = input.string("small", "Timeframe Text Size", options = ["tiny", "small", "normal", "large", "huge", "auto"], inline="02", group = 'Generic Style Settings')
+RSITEXTSIZE  = input.string("small", "RSI Text Size", options = ["tiny", "small", "normal", "large", "huge", "auto"], inline="03", group = 'Generic Style Settings')
+CellWidth = input.int(2, "Cell Width",   inline = "03",group='Generic Style Settings')
+
+var table perfTable = table.new(table_position=='top_right'?position.top_right:table_position=='top_left'?position.top_left:table_position=='top_center'?position.top_center:table_position=='bottom_left'?position.bottom_left:table_position=='bottom_right'?position.bottom_right:position.bottom_center, 6, 16, border_width=2)
+
+Header_bg_col = input.color(color.black, 'Header BG Color', group='Generic Style Settings')
+Header_txt_col = input.color(color.white, 'Header Text Color', group='Generic Style Settings')
+Timeframe_bg_col = input.color(#d6dbea, 'Title BG Color', group='Generic Style Settings')
+Timeframe_txt_col = input.color(color.black, 'Title Text Color', group='Generic Style Settings')
+txt_col = input.color(color.black, 'Values Text Color', group='Generic Style Settings')
+
+cell_up_max = input.color(#33d476,'Max Bullish Cell Color' ,group='Bull Color Settings')
+cell_up_med = input.color(#4aff99,'Med Bullish Cell Color'  ,group='Bull Color Settings')
+cell_up_min = input.color(#afffcf,'Min Bullish Cell Color'  ,group='Bull Color Settings')
+
+cell_dn_max = input.color(#ff7070,'Max Bearish Cell Color'  ,group='Bear Color Settings')
+cell_dn_med = input.color(#fd9a9a,'Med Bearish Cell Color'   ,group='Bear Color Settings')
+cell_dn_min = input.color(#f4b1b1,'Min Bearish Cell Color'   ,group='Bear Color Settings')
+
+Neutral_Color = input.color(color.yellow, 'Neutral Signal Color', group='Neutral Color Settings')
+
+// temp assignments
+current_tf_period = timeframe.period
+
+// Market status engine statrs
+tradetime1 = current_tf_period == 'D'?'1D':current_tf_period == 'W'?'1W':current_tf_period == 'M'?'1M': current_tf_period
+tradetime2_tmp = tradetime1_temp == tradetime1?tradetime2_temp:tradetime2_temp == tradetime1?tradetime3_temp:tradetime3_temp == tradetime1?tradetime4_temp:tradetime4_temp == tradetime1?tradetime5_temp:tradetime5_temp == tradetime1?tradetime6_temp:tradetime6_temp == tradetime1?tradetime7_temp:tradetime7_temp == tradetime1?tradetime8_temp:tradetime8_temp == tradetime1?tradetime9_temp:tradetime1=='2'?'5':tradetime1=='3'?'10':tradetime1=='5'?'15':tradetime1=='10'?'30':tradetime1=='30'?'120':tradetime1=='120'?'1D':tradetime1=='180'?'1D':tradetime1=='240'?'1W':tradetime1=='2D'?'1W':'0'
+tradetime2 = tradetime2_tmp=='0'?'1D':tradetime2_tmp
+tradetime3_tmp = tradetime2_temp == tradetime2?tradetime3_temp:tradetime3_temp == tradetime2?tradetime4_temp:tradetime4_temp == tradetime2?tradetime5_temp:tradetime5_temp == tradetime2?tradetime6_temp:tradetime6_temp == tradetime2?tradetime7_temp:tradetime7_temp == tradetime2?tradetime8_temp:tradetime8_temp == tradetime2?tradetime9_temp:tradetime1=='2'?'15':tradetime1=='3'?'30':tradetime1=='5'?'60':tradetime1=='10'?'120':tradetime1=='30'?'1D':tradetime2=='12M'?'12M':tradetime1=='120'?'1W':tradetime1=='180'?'1W':tradetime1=='240'?'1M':tradetime1=='2D'?'1M':'0'
+tradetime3 = tradetime3_tmp=='0'?'1W':tradetime3_tmp
+
+rsi = ta.rsi(close, RSI_len) 
+RSI1 = math.round(request.security(syminfo.tickerid, tradetime1, rsi))
+RSI2 = math.round(request.security(syminfo.tickerid, tradetime2, rsi))
+RSI3 = math.round(request.security(syminfo.tickerid, tradetime3, rsi))
+
+RSI1_color = RSI1 >=RSI_Long_Momentum? cell_up_max : RSI1 <= RSI_Short_Momentum? cell_dn_max :Neutral_Color
+RSI2_color = RSI2 >=RSI_Long_Momentum? cell_up_max : RSI2 <= RSI_Short_Momentum? cell_dn_max :Neutral_Color
+RSI3_color = RSI3 >=RSI_Long_Momentum? cell_up_max : RSI3 <= RSI_Short_Momentum? cell_dn_max :Neutral_Color
+
+f_xATRTrailingStop(tf) =>
+ 
+    tfclose = request.security(syminfo.tickerid, tf, close)
+    tfATR   = request.security(syminfo.tickerid, tf, ta.atr(ATRPeriod))
+
+    var float xATRTrailingStop = na
+
+    nLoss = ATRMultip * tfATR
+    xATRTrailingStop := tfclose > nz(xATRTrailingStop[1], 0) and tfclose[1] > nz(xATRTrailingStop[1], 0) ?
+         math.max(nz(xATRTrailingStop[1]), tfclose - nLoss) :
+         tfclose < nz(xATRTrailingStop[1], 0) and tfclose[1] < nz(xATRTrailingStop[1], 0) ?
+         math.min(nz(xATRTrailingStop[1]), tfclose + nLoss) :
+         tfclose > nz(xATRTrailingStop[1], 0) ?
+         tfclose - nLoss :
+         tfclose + nLoss
+
+    var int pos = na
+    pos :=	close[1] < nz(xATRTrailingStop[1], 0) and close > nz(xATRTrailingStop[1], 0) ? 1 : close[1] > nz(xATRTrailingStop[1], 0) and close < nz(xATRTrailingStop[1], 0) ? -1 : nz(pos[1], 0) 
+    xcolor = pos == -1 ? cell_dn_med: pos == 1 ? cell_up_max : color.blue 
+
+    xATRTrailingStop := math.round_to_mintick(xATRTrailingStop)
+
+    [xATRTrailingStop, xcolor]                    
+
+
+
+[ATR1, ATR1_color] = f_xATRTrailingStop(tradetime1)
+[ATR2, ATR2_color] = f_xATRTrailingStop(tradetime2)
+[ATR3, ATR3_color] = f_xATRTrailingStop(tradetime3)
+
+tf_row = 1
+rsi_row = 2
+atr_row = 3
+
+col0 = 4
+col1 = 3
+col2 = 2
+col3 = 1
+
+
+plot(ATR1, color=ATR1_color, title="ATR Trailing Stop")
+ATR1 := math.round(ATR1)
+ATR2 := math.round(ATR2)
+ATR3 := math.round(ATR3)
+
+if barstate.islast
+    table.cell(perfTable, col0, tf_row, tradetime1, bgcolor=Header_bg_col,  text_color=Header_txt_col, width=CellWidth,text_size = TFTEXTSIZE)        
+    table.cell(perfTable, col1, tf_row, tradetime2, bgcolor=Header_bg_col,  text_color=Header_txt_col, width=CellWidth,text_size = TFTEXTSIZE)    
+    table.cell(perfTable, col2, tf_row, tradetime3, bgcolor=Header_bg_col,  text_color=Header_txt_col, width=CellWidth,text_size = TFTEXTSIZE) 
+    table.cell(perfTable, col3, tf_row, 'TF', bgcolor=Header_bg_col,  text_color=Header_txt_col, width=1,text_size = TFTEXTSIZE)
+    
+    table.cell(perfTable, col0, rsi_row, str.tostring(RSI1), bgcolor=RSI1_color,  text_color=txt_col, width=CellWidth,text_size = RSITEXTSIZE)   
+    table.cell(perfTable, col1, rsi_row, str.tostring(RSI2), bgcolor=RSI2_color,  text_color=txt_col, width=CellWidth,text_size = RSITEXTSIZE)   
+    table.cell(perfTable, col2, rsi_row, str.tostring(RSI3), bgcolor=RSI3_color, text_color=txt_col, width=CellWidth,text_size = RSITEXTSIZE)    
+    table.cell(perfTable, col3, rsi_row, 'RSI', bgcolor=Timeframe_bg_col,  text_color=Timeframe_txt_col, width=1,text_size = TFTEXTSIZE)
+
+    table.cell(perfTable, col0, atr_row, str.tostring(ATR1), bgcolor=ATR1_color,  text_color=txt_col, width=CellWidth,text_size = RSITEXTSIZE)   
+    table.cell(perfTable, col1, atr_row, str.tostring(ATR2), bgcolor=ATR2_color,  text_color=txt_col, width=CellWidth,text_size = RSITEXTSIZE)   
+    table.cell(perfTable, col2, atr_row, str.tostring(ATR3), bgcolor=ATR3_color, text_color=txt_col, width=CellWidth,text_size = RSITEXTSIZE)    
+    table.cell(perfTable, col3, atr_row, 'ATR', bgcolor=Timeframe_bg_col,  text_color=Timeframe_txt_col, width=1,text_size = TFTEXTSIZE)
+
