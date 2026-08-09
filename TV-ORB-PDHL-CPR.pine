@@ -1,0 +1,87 @@
+//@version=6
+indicator("ORB-PDHL-CPR", overlay=true, max_bars_back=5000)
+
+//──────────────────── INPUTS ────────────────────
+orbTimeStr = input.timeframe("60", "ORB Timeframe", group="Algorithm")
+
+customSessionEnabled = input.bool(false, "Enabled", group="Custom Session")
+customSessionTime = input.session("0915-1015", "Start Time", group="Custom Session",
+     tooltip="Select Start time only. End time is calculated from ORB timeframe.")
+
+showORBZones = input.bool(true, "Show ORB", group="ORB Visuals")
+showHistoricZones = input.bool(false, "Show Historic ORB", group="ORB Visuals")
+
+showPDH_PDL = input.bool(true, "Show PDH & PDL", group="PDHL Visuals")
+showHistoricPDHL = input.bool(false, "Show Historic PDH & PDL", group="PDHL Visuals")
+
+showCPR = input.bool(true, "Show CPR", group="CPR Visuals")
+showHistoricCPR = input.bool(false, "Show Historic CPR", group="CPR Visuals")
+
+//──────────────────── SESSION ────────────────────
+sessionBegins(sess) =>
+    t = time("1440", sess)
+    (na(t[1]) and not na(t)) or t[1] < t
+
+newSession = customSessionEnabled ? sessionBegins(customSessionTime) : session.isfirstbar_regular
+newDay = timeframe.isintraday and (na(time("D")[1]) or time("D") != time("D")[1])
+
+lastDay = ta.valuewhen(barstate.islast, time("D"), 0)
+latestDay = time("D") == lastDay
+
+//──────────────────── ORB ────────────────────
+var float orbH = na
+var float orbL = na
+var int orbStart = na
+
+if newSession
+    orbH := high
+    orbL := low
+    orbStart := time
+else if not na(orbStart) and time < orbStart + timeframe.in_seconds(orbTimeStr) * 1000
+    orbH := math.max(nz(orbH, high), high)
+    orbL := math.min(nz(orbL, low), low)
+
+//──────────────────── PDH / PDL ────────────────────
+[pdh, pdl] = request.security(
+    syminfo.tickerid,
+    "D",
+    [high[1], low[1]],
+    lookahead=barmerge.lookahead_on)
+
+//──────────────────── CPR ────────────────────
+[dh, dl, dc] = request.security(
+    syminfo.tickerid,
+    "D",
+    [high[1], low[1], close[1]],
+    lookahead=barmerge.lookahead_on)
+
+cprP = (dh + dl + dc) / 3
+cprB = (dh + dl) / 2
+cprT = 2 * cprP - cprB
+
+//──────────────────── PLOTS ────────────────────
+// plot.style_linebr prevents connections between sessions.
+
+// ORB
+plot(showORBZones and timeframe.isintraday and (showHistoricZones or latestDay) and not newSession ? orbH : na,
+     "ORB High", color=color.green, linewidth=1, style=plot.style_linebr, editable=true)
+
+plot(showORBZones and timeframe.isintraday and (showHistoricZones or latestDay) and not newSession ? orbL : na,
+     "ORB Low", color=color.red, linewidth=1, style=plot.style_linebr, editable=true)
+
+// PDH / PDL
+plot(showPDH_PDL and timeframe.isintraday and (showHistoricPDHL or latestDay) and not newDay ? pdh : na,
+     "PDH", color=color.green, linewidth=1, style=plot.style_linebr, editable=true)
+
+plot(showPDH_PDL and timeframe.isintraday and (showHistoricPDHL or latestDay) and not newDay ? pdl : na,
+     "PDL", color=color.red, linewidth=1, style=plot.style_linebr, editable=true)
+
+// CPR
+plot(showCPR and timeframe.isintraday and (showHistoricCPR or latestDay) and not newDay ? cprT : na,
+     "CPR Higher Band (TC)", color=color.gray, linewidth=2, style=plot.style_linebr, editable=true)
+
+plot(showCPR and timeframe.isintraday and (showHistoricCPR or latestDay) and not newDay ? cprP : na,
+     "CPR Pivot", color=color.purple, linewidth=1, style=plot.style_linebr, editable=true)
+
+plot(showCPR and timeframe.isintraday and (showHistoricCPR or latestDay) and not newDay ? cprB : na,
+     "CPR Lower Band (BC)", color=color.gray, linewidth=2, style=plot.style_linebr, editable=true)

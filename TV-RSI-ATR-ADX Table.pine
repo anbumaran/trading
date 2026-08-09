@@ -1,6 +1,6 @@
 //@version=5
 
-indicator(title='RSI ATR ADX Table', shorttitle="RSI ATR ADX", overlay=true)
+indicator(title='RSI ATR ADX Table', shorttitle="RSI-ATR-ADX Table", overlay=true)
 
 showRSI = input.bool(true, "Show RSI Row", group='Table Option')
 showATR = input.bool(true, "Show ATR Row", group='Table Option')
