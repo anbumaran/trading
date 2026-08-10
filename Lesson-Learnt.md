@@ -3,75 +3,40 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 - James 1:5
 
 HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
-Spot Direction: Open near / far wrt 3 min 20 EMA. Price Sw L|H~BO not touch VWAP & EMA, Not against VWAP [O~2.5h] | 3 min 50 EMA [>2.5hrs]. RSI & Trend in 15 & 60 min
+Spot Dir. - O~45 min - 10min ORB | Overnight Future TL BO near / far wrt 3 min 20 EMA, Not against VWAP [O~2.5h] | 3 min 50 EMA [>2.5hrs], RSI & HTHB | LTLB in 15 & 60 min. Consol: Price Sw L / H~BO not touch VWAP, <> 1 hr ORB | ADX < 20, Bollinger B squeeze
 Option 3 min  [O3ME*] - False Rev | Range | TL BO + DB [RSI div] + HL[Close] + Price > 20 EMA. Targets - 3 min RR - 1:1 | 1:2 | 1:3**
-Even O1ME must aline to OG 3 min RR Target
-TL  - with HL draw closer TL with max candle touch | without HL farther TL based on wicks
-O. Initial SL - recent Sw Lo in 3 min, 14% max
+Even O1ME TL BO must aline to OG 3 min RR Target
+TL  - with HL draw closer TL with max candle touch | without HL farther TL based on wicks, Ignore TL using Open cd | Far away Sw | below 20 EMA in 3 min
+O. Initial SL - recent Sw Lo in 3 min, 14% max | Tight SL for False BO 
 Trail SL - 3 | 1 min Swing Low before new High | Solid Green candle low in 3 min. 
 iSL | TSL hit - wait for O3ME, Not  O1ME
-O1ME** - If TSL holds then Re-Entry - TL BO | Swing BO | Engulf - S.Red Cd | Cons BO in 1 min. All entry must GreenCC. Risky Entry > 1:3 RR level for S.Trend day. 
+O1ME* - If TSL holds then Re-Entry - TL BO | Swing BO | Engulf - S.Red Cd | Cons BO in 1 min. All entry must GreenCC. Risky Entry > 3 min 1:3 RR level
+N-1|2(Fri**) Positional: TL BO in 1 Hr Spot, max 33% AC exposure
+Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. target. Option - Sw H | C | O | 2x+ W-H
 
-No Trade - Price within first 60 min | ADX < 20
-O~45 min -  ORB | Overnight Future TL BO
-At DB - Early entry on bullish rev. & Exit TL RS zone
-Initial 3 min 1:3 RR target is very important R zone.  Intermediate 1 min momentum entry targets like 1:1 | 1:2 RR may concur with initial 3 min 1:2 | 1:3 RR targets 
-If 1:1RR archives in 1 | 2 candle in 3 min, then momentum will easily archive 1:2|1:3 RR targets, if it is slow move to 1:1, momentum may not be sufficient to achieve 1:3+ targets,  
-Initial SL >12~14% | False TL BO > Tight SL, P. Profit 1/6 @ 1:1 RR>Move TSL BO Pt, 2/6 @ 1:2** | 1:3 RR, Remaining 3/6 Trail
-Remain pos. move Initial SL to TSL* - 1 min Sw Low before higher high | 3 min - Solid Cd low | ATR14 x 1.5~2x in 3 min | Prev RR level break. If TSL hit then re-entry TL BO in 3 min only [O3ME]
 
-Always refer TL BO in 3 min for SL & 1:2 | 1:3 Targets. Avoid entry > 1:1 RR. Target - Sw C | O | 2xW | Spot / Fut. - TL & RS Zone
-Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if  50>200 EMA, keep max target like 1:3 RR or max Spot target if it is wave 3 in option. If RS is close use 1:1 RR targets like wave 5. 
-Initial SL need not go beyond recent swing low 
-Aggressive RSI in 15 & 60 min, do not trade counter trend, in counter trend max move will be towards 50 EMA in 3 min in option, Spot VWAP support will come 
+
 RS Zone BO wait for Retrace + Rev-Pat*: M/E Star | B/B Engulfing | TL BO | Cons. BO
-N-1, N-2 day positional Trend side only & TL BO in 15 & 60 min. max exposure 33% AC value. positional buy only after 3 pm, till then intraday trade method only..
+Initial 3 min 1:2 | 1:3 RR are important target even for 1 min based re-entry, Avoid late entry > 1:1 RR, momentem usally achive 1:1 ~ 1:3 RR Tragets without hiting SL
+Adjust RR Targets based on RS Zone - Swing and 15 min TL
+P. Profit 1/6 @ 1:1 RR>Move TSL BO Pt, 2/6 @ 1:2 | 2/6 @ 1:3 RR, 1/6 Trail
+Double B|T, false BO reversal  - Early entry on bullish rev. & Exit TL RS zone
+60min TL BO for N-1, N-2 day positional with max exposure 33% AC value. positional buy only after 3 pm, till then intraday trade method only..
 No. of Trade 2x AM & 3x PM | Max 2 SL & Max loss 20% Option Acc.
-Option 120~160 price. Trade EW 2 & 4 BO. 
-Cancel old GTC order, avoid unexp. execu
-For expiry max move to close use first OTM option with no SL - hero or zero. 
-Do not trade near RS zone unless clear TL BO in 3 min with higher low
-Do NOT trade last 30 min. Unless strong trending day for peak close. Other days price will move volatile esp on expiry
+Option 120~160 price. 
+Always SL must 
+Cancel old GTC order, avoid unexpected execution 
+For expiry Trend max move to close use first OTM option with no SL - hero or zero. 
+Do NOT trade last 30 min (3:10~3:40) highly unpredicable close with new CAS method
 Option Swing High & TL are targets, it does not stop at swing lows 
-TL BO not req, Solid candle enough if Double B|T, false BO reversal 
 VWAP & VWAP Century - act as RS
-Book 60~80% profits if profit is more than 1:3 RR
-Adjust TL if BO fail
 Ignore Option OI Put vs Call & Price vs OI 
-Option TL BO bound to fail if drawn using  Day Open candle | Far away Swings | below 20 EMA 3 min
-10 min ORB [till 5 min Trend Rev] 
-
 Reversal - Spot TL BO 5 min + Price wrt 20 EMA 3 min + DB/DT | HB/LT + RS zone & Rev 5 min Swing BO CCC + HTHB | LTLB in 3 min
-
-￼
-
-
-
-https://youtu.be/69eCW5rRBh8?si=NBwLFyPUXT_726KQ
-
-
-Higher TF & Elliot Wave>>High probability of Trend direction – Channels | Impulse | Corrective Waves
-5 min chart Spot>>Intraday Trend direction – HTHB | LTLB | TL BO + Double Top / Bottom + RS Zone | TL BO alone not sufficient + Not against 15 min** & 1 hr RSI < 40 & >60
-Option 3 min>>Bullish TL BO + Higher | Double Bottom + Bullish RSI divergence + Support zone (Sport & Option TL BO>> Bearish BO - Upward slopping Support TL | Bullish BO - Downward slopping Resistance TL | Intraday & Positional RS Zone BO + Retrace. +  M/E Star,  B/B Engulfing / Ang. TL BO | Do NOT try Swing BOs / other TL BOs
-Enter only 1Risk v 2+Retrun, Target @ Strong TL | RS Zone in Option (3 min Cd. Open | Close | High) | Spot | Future, No Trade if Target is near < 1:1~2 RR
-Per day - Max 3 trades | Max 2 SL & Max loss 20% Option Acc. [2% Overall]
-Always Option SL (7 ~ 10%) - BO Cd N / N-1 low | Swing low | Solid Cd low | Range lowest, Never cancel SL | Re-entry with Fear of missing out once well placed SL is hit, Instead Progressively adjust TL BO for failed BO candle wick and wait for next entry
 Major lost factors - When No SL placed | SL hit and still continues to hold | Buy / Rebuy when there is no BO | heavy overnight exposure | 1 min scalping without following above BO rules | Holding
-No Trade - First & Last 30 min of the day | Last 45 min of Expiry day
-NO overnight trade as open is highly unpredictable 
-On Aggressive move & No TSL hit - 1 min TL BO only on price consolidate near temporary RS | TL Zone use Buy SL order for Wave 5 with tight SL
-Draw RS Zone using 15 min | 1 Hr Swings | Gap fill – Close & High / Lows
- No overtrade near TL | RS Zone - wait for clear BO | Reversal | Consol.
-Suggested Option price range for trade 120 ~ 180
-#Enter only when Option 3 min - Green CCC above 20 EMA + Clear  Bottom price + RSI divergence (RSI can form Higher high slightly deviated from price bar)  + TL | S | Cons. BO
-Never Trade based on 1 min - CCC | >50% retracement | Solid candle Engulf | Anticipated for EW.5 without BO are all bound to fail
-Keep drawing RS zone in Option for RS & SL, Low momentum use S BO than TL BO
-Gap day H/L act as RS, if breaks next Day Close.
-Option RS target will hit for max profit than exit based on Spot | Fut, except Option RS is far away
-No fresh entry at elevated prices, near target, swift reversal possible.
-Buy Option only Green CCC above 20 EMA
-Concentrate Option chart once Intraday Trend is confirmed in Spot
-
+No overtrade near TL | RS Zone - wait for clear BO | Reversal | Consol.
+Keep drawing RS zone in Option for RS & SL
+￼
+https://youtu.be/69eCW5rRBh8?si=NBwLFyPUXT_726KQ
 
 
 

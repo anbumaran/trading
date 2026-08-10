@@ -25,8 +25,13 @@ sessionBegins(sess) =>
 newSession = customSessionEnabled ? sessionBegins(customSessionTime) : session.isfirstbar_regular
 newDay = timeframe.isintraday and (na(time("D")[1]) or time("D") != time("D")[1])
 
-lastDay = ta.valuewhen(barstate.islast, time("D"), 0)
-latestDay = time("D") == lastDay
+// Fixed: compare each bar's date to today's actual date (timenow),
+// instead of relying on ta.valuewhen(barstate.islast, ...) which only
+// resolves on the final bar.
+latestDay = timeframe.isintraday and
+     year(time) == year(timenow) and
+     month(time) == month(timenow) and
+     dayofmonth(time) == dayofmonth(timenow)
 
 //──────────────────── ORB ────────────────────
 var float orbH = na
