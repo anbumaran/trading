@@ -2,7 +2,7 @@
 indicator(title="Volume Weighted Average Price", shorttitle="VWAP AA", overlay=true, timeframe="", timeframe_gaps=true)
 
 hideonDWM = input(true, title="Hide VWAP on 1D or Above", group="VWAP Settings", display = display.none)
-hideHistory = input(true, title="Hide Historic Chart", group="VWAP Settings", display = display.none)
+hideHistory = input(true, title="Hide Historic VWAP", group="VWAP Settings", display = display.none)
 var anchor = input.string(defval = "Session", title="Anchor Period",
  options=["Session", "Week", "Month", "Quarter", "Year", "Decade", "Century", "Earnings", "Dividends", "Splits"], group="VWAP Settings")
 src = input(title = "Source", defval = hlc3, group="VWAP Settings", display = display.none)
