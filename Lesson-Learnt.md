@@ -2,8 +2,6 @@
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. 
 - James 1:5
 
-~-~-~Praise The LORD JESUS~-~-~
-If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.                  - James 1:5
 * HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
 * Spot TD 3 min: Open~45 min - 10min ORB | Over N. Future TL BO & near/far wrt 20 ema. HTHB / LTLB & CCC wrt VWAP [<2.5h] and** 50 EMA [>2.5h], ART, 5 & 15 min Conc  Consol.: <> 1 hr ORB | ADX < 20 | >2x Swing touch VWAP & 50 EMA - Sport | Option
 * RS - prices reverse twice @ a level  & close pos on 1st approach RS. re-enter after BO
