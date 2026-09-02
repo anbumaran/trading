@@ -1,5 +1,7 @@
 Praise The LORD JESUS
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. James 1:5
+
+
 	•	HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
 	•	All time TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
 	•	Spot TD 3 min: Open~45 min - 10min ORB | Over N. Future TL BO & near/far wrt 20 ema. 
