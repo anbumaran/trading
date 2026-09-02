@@ -8,7 +8,7 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 	•	Option 3 min [O3ME*] - Slant RHS TL BO + Price >20 EMA. Early Entry False BO Rev | DB 
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
 	•	Higher Low:  closer TL + max cd.
-	•	Without Higher Low and 20 EMA: farther TL wick based & Tight SL
+	•	Without Higher Low and <20 EMA: farther TL wick based & Tight SL
 	•	SL: Sw Lo before High | Solid G.Cd. Low | ATR 
 	•	BO~1:1 RR: Sw Lo in 3 min & < 20 EMA
 	•	1:1~1:2RR: Large TSL in 3 min. 
