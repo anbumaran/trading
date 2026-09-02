@@ -1,4 +1,4 @@
-~-~-~Praise The LORD JESUS~-~-~
+~-~-Praise The LORD JESUS-~-~
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
 	•	HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
