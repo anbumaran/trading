@@ -1,21 +1,24 @@
-Praise The LORD JESUS
-If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. James 1:5
-
+~-~-~Praise The LORD JESUS~-~-~
+If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
 	•	HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
-	•	All time TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
-	•	Spot TD 3 min: Open~45 min - 10min ORB | Over N. Future TL BO & near/far wrt 20 ema. 
-	•	HTF Trend side: TL BO | Against HTF Trend: CCC wrt VWAP [act as RS Zone] + No False BO Rev + Option TL BO & Close > 20 EMA
+	•	Always TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
+	•	Spot TD 3 min: Open~45 min - Over N. Fut TL BO & near / far wrt 20 ema. HTF Trend side: TL BO | Against HTF Trend: CCC wrt VWAP [act as RS Zone] + No False BO Rev
 	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
-	•	Option 3 min  [O3ME*] - Slant RHS TL BO + Price >20 EMA. Early Entry False BO Rev | DB 
-	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + BO Clear CCC above 20 EMA. HL: closer TL + max cd., No HL & <20 EMA: far TL wick based & Tight SL
-	•	iSL - BO~1:1 RR: Recent Sw Lo in 3 min & below 20 EMA, False BO - Tight SL. TSL: Sw Lo before High | Solid Green Cd. Low | ATR 
-	•	1:1~1:2RR: Big TSL in 3 min. 
+	•	Option 3 min [O3ME*] - Slant RHS TL BO + Price >20 EMA. Early Entry False BO Rev | DB 
+	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
+	•	Higher Low:  closer TL + max cd.
+	•	Without Higher Low and 20 EMA: farther TL wick based & Tight SL
+	•	SL: Sw Lo before High | Solid G.Cd. Low | ATR 
+	•	BO~1:1 RR: Sw Lo in 3 min & < 20 EMA
+	•	1:1~1:2RR: Large TSL in 3 min. 
 	•	1:2~1:3RR: Tight TSL in 1 min. 
 	•	3 min 1:1 | 1:2 | 1:3 RR Targets based on RSZ
 	•	Check opposite side as soon as SL hit 
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
 	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. target. 
+
+
 
 	•	Even O1ME TL BO aline to OG 3 min RR Trgt
 	•	Entry | Exit check 1 & 3 min - TL BO & SL 15%
