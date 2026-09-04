@@ -1,6 +1,6 @@
 Praise The LORD JESUS
 
-	* If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
+	•	If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 	•	Trade Dir Spot 15 & 5 min: BO | Move btw Res & Sup. Zone - Trend Rev, Pre & Cur Day H/L, CPR, Channel, TL[Plot Always]. VWAP[Temp]
 	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
 	•	Always TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
