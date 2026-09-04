@@ -1,29 +1,32 @@
-~-~-Praise The LORD JESUS-~-~
+~-~-~Praise The LORD JESUS~-~-~
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
-
-	•	HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
-	•	Always TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
-	•	Spot TD 3 min: Open~45 min - Over N. Fut TL BO & near / far wrt 20 ema. HTF Trend side: TL BO | Against HTF Trend: CCC wrt VWAP [act as RS Zone] + No False BO Rev
+	•	Trade Dir Spot 15 & 5 min: BO | Move btw Res & Sup. Zone - Trend Rev, Pre & Cur Day H/L, CPR, Channel, TL[Plot Always]. VWAP[Temp]
 	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
+	•	Always TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
 	•	Option 3 min [O3ME*] - Slant RHS TL BO + Price >20 EMA. Early Entry False BO Rev | DB 
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
-	•	Higher Low:  closer TL + max cd.
-	•	Without Higher Low and <20 EMA: farther TL wick based & Tight SL
+	•	Higher Low[Best]:  closer TL + max cd.
+	•	Without HL and <20 EMA: farther TL wick based & Tight SL for False BO
 	•	SL: Sw Lo before High | Solid G.Cd. Low | ATR 
 	•	BO~1:1 RR: Sw Lo in 3 min & < 20 EMA
 	•	1:1~1:2RR: Large TSL in 3 min. 
 	•	1:2~1:3RR: Tight TSL in 1 min. 
-	•	3 min 1:1 | 1:2 | 1:3 RR Targets based on RSZ
-	•	Check opposite side as soon as SL hit 
+	•	Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone & No overtrade near RS Zone
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
+	•	Per Day: Max 1+1+1 Trades & Max 2 SL hits
 	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. target. 
 
 
 
+
+
+
+	•	Spot and option chart is sufficient no need to check Futures 
 	•	Even O1ME TL BO aline to OG 3 min RR Trgt
 	•	Entry | Exit check 1 & 3 min - TL BO & SL 15%
 	•	Technical wins even in last 25 min of expiry 
 	•	O1ME* - If TSL holds then  - 1 min TL BO | Swing BO | Engulf - S.Red Cd | Cons BO.  Entry GCCC > 1:1|1:2 RR, Risky > 3 min 1:3 RR 
+	•	SL: consolidation zone Solid green candle low below consolidation zone low 
 	•	O.N Exp-1|2 Pos. After 3:30 pm TL BO in 1 Hr Spot, max 33% AC. O.N Pos. if sleep: No limit order, keep SL @ day low 
 	•	Option - Sw H | C | O | 2x+ W-H
 	•	RS - prices reverse twice @ a level  & close pos on 1st approach RS. re-enter after BO
