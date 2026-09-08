@@ -1,22 +1,19 @@
 Praise The LORD JESUS
-
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
-	•	Trade Dir Spot 15 & 5 min: TL BO | Move btw RS Zone - Trend Rev, Pre & Cur Day H/L, CPR, Channel, TL[Plot Always]. VWAP[Temp]
+	•	Trade Dir: Spot 15 min - Move btw RS Zone, Pre & Cur Day H/L, CPR, Channels, TL 
+	•	Spot 5 min: Trend Side - TL BO | Counter Trend - 5 min Sw BO CCC [AlgoLux]
 	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
-	•	Always TL BO, SL, RR Targets. Never trade on Assumptions - Expiry jackpot | O.N. Pos.
-	•	Option: RS Zone | TL BO must in 15 min + Entry Option 3 min - Slant RHS TL BO + Price >20 EMA. Early Entry False BO Rev | DB 
+	•	Option: RS | TL BO must in 15 min + Entry 3 min - Slant RHS TL BO + Price >20 EMA.
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
 	•	Higher Low[Best]:  closer TL + max cd.
-	•	Without HL and <20 EMA: farther TL wick based & Tight SL for False BO
-	•	SL: Sw Lo before High | Solid G.Cd. Low | ATR 
-	•	BO~1:1 RR: Sw Lo in 3 min & < 20 EMA
-	•	1:1~1:2RR: Large TSL in 3 min. 
-	•	1:2~1:3RR: Tight TSL in 1 min. 
+	•	Without HL | Counter Trend & 20 EMA: far TL wick based & Tight SL [False BO]
+	•	BO~1:1 RR [iSL]: Sw Lo | Solid Cd low below 20 EMA in 3 min
+	•	SL - Closer of [Sw Lo before High | Solid G.Cd. Low | ATR] - 1:1~1:2RR: Large TSL in 3 min |1:2~1:3+RR: Tight TSL in 1 min. 
 	•	Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone & No overtrade near RS Zone
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
-	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits
-	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. target. 
+	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. Last 30m [esp. Exp] NO Trade
+	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. targets
 
 
 
