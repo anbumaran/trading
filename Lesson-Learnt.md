@@ -1,19 +1,23 @@
-Praise The LORD JESUS
+             Praise The LORD JESUS
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
-
-	•	Trade Dir: Spot 15 min - Move btw RS Zone, Pre & Cur Day H/L, CPR, Channels, TL 
-	•	Spot 5 min: Trend Side - TL BO | Counter Trend - 5 min Sw BO CCC [AlgoLux]
+	•	Trade Dir: Spot 15 min - Rev + D B/T @ RS | BO RS & move to Next RS | 15 min - TL BO | Swing BO + CCC in 5 min. RS: Pre & Cur Day H/L, CPR, Channels, TL + Consider VWAP 
+	•	TL Primarily 15 min, Adjust & BOCCC in 5 min 
 	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
 	•	Option: RS | TL BO must in 15 min + Entry 3 min - Slant RHS TL BO + Price >20 EMA.
+	•	RS DB | False BO Rev Early E.: close >20EMA 
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
-	•	Higher Low[Best]:  closer TL + max cd.
-	•	Without HL | Counter Trend & 20 EMA: far TL wick based & Tight SL [False BO]
-	•	BO~1:1 RR [iSL]: Sw Lo | Solid Cd low below 20 EMA in 3 min
-	•	SL - Closer of [Sw Lo before High | Solid G.Cd. Low | ATR] - 1:1~1:2RR: Large TSL in 3 min |1:2~1:3+RR: Tight TSL in 1 min. 
-	•	Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone & No overtrade near RS Zone
+	•	Trend Side | Higher Low: Closer TL
+	•	Counter Trend | Without HL: faraway TL
+	•	BO~1:1 RR: Sw Lo | Sd Cd Lo + <20EMA 3 min
+	•	SL - Closer of [Sw Lo before High | Solid G.Cd. Low | ATR] - 1:1~1:2RR: Large TSL in 3 min |1:2~1:3+RR: Tight TSL in 3 | 1 min. 
+	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone & Fix 1:3 for impulse & 1:2 for corrective move
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
-	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. Last 30m [esp. Exp] NO Trade
+	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade in last 30 min 
 	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. targets
+	•	If SL hit + immediate Engulf Sd Red Cd then use 1 min CCC for 3 min TL, due to SL hunt reversal 
+	•	RS Zone BO wait for Retrace + Reversal Patt: M/E Star | B/B Engulfing opposite color solid cd  | TL BO | Cons. BO
+	•	Swing - at least 2 | 3 right side have lower highs for Sw Hi | higher lows for Sw Lo, or use TL with Breaks [LuxAlgo] - Swing Dey Look back 3 
+	•	3 min TL BO is most reliable then 1 min TL, but for early entry 1 min CCC can be used only for double bottom | false BO | SL hunt & Reversal
 
 
 
@@ -41,7 +45,7 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 
 
 
-	•	RS Zone BO wait for Retrace + Rev-Pat*: M/E Star | B/B Engulfing | TL BO | Cons. BO
+	•	
 	•	Initial 3 min 1:2 | 1:3 RR are important target even for 1 min based re-entry, Avoid late entry > 1:1 RR, momentem usally achive 1:1 ~ 1:3 RR Tragets without hiting SL
 	•	Adjust RR Targets based on RS Zone - Swing and 15 min TL
 	•	P. Profit 1/6 @ 1:1 RR>Move TSL BO Pt, 2/6 @ 1:2 | 2/6 @ 1:3 RR, 1/6 Trail
