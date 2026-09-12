@@ -1,5 +1,6 @@
              Praise The LORD JESUS
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
+
 	•	Trade Dir: Spot 15 min - Rev + D B/T @ RS | BO RS & move to Next RS | 15 min - TL BO | Swing BO + CCC in 5 min. RS: Pre & Cur Day H/L, CPR, Channels, TL + Consider VWAP 
 	•	TL Primarily 15 min, Adjust & BOCCC in 5 min 
 	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
