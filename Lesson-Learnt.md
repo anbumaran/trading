@@ -1,24 +1,30 @@
              Praise The LORD JESUS
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
-	•	Trade Dir: Spot 15 min - Rev, D B/T @ RS | BO RS & move to Next RS | 15 min - TL BO | Swing BO + CCC in 5 min. TL Primarily 15 min, Adjust & BO CCC in 5 min. RS: Pre & Cur Day H/L, CPR, Channel, TL + Consider VWAP
-	•	Consol.: Closer Swings | Ranged | ADX < 20 | Multi-Swing touch VWAP & flat 50 EMA 
+	•	S.Trend move btw RS 15 min TF E: Price 10 <> 20 <>50 EMA. No Trade during Bull: 10< 20 | Bear: 10>20 EMA, E Only if 15 min TL BO
+	•	RS BO & Retest RS 3 | 5 mins TF E: near 50 EMA TL BO+ 20<>50<>200EMA
+	•	Rev 15 min: D T|B @ RS + RSI div & 5 min TL BO (3 Sw must) + HL / LH + <> 50 EMA + RS BO. RS: Pre & Cur Day H/L, CPR, Chan, TL
+	•	Consol - Horizontal | Channels: Closer Sw | Ranged | ADX < 20 | 15 min 2x Sw Ho & Lo & check Channel / Box | flat 50 EMA & VWAP 
 	•	Option: RS | TL BO must in 15 min + Entry 3 min - Slant RHS TL BO + Price >20 EMA.
 	•	Early E.: DB @ RS | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL must be in 3 min)
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
 	•	Trend Side | Higher Low: Closer TL
 	•	Counter Trend | Without HL: faraway TL
+	•	Avoid TL BO with all Sw H are < 20 EMA except Early entry cases DB | False BO Rev
 	•	BO~1:1 RR: Sw Lo | Sd Cd Lo + <20EMA 3 min
-	•	SL - Closer of [Sw Lo before High | Solid G.Cd. Low | ATR] - 1:1~1:2RR: Large TSL in 3 min |1:2~1:3+RR: Tight TSL in 3 | 1 min. 
+	•	SL - Closer of [Sw Lo before High | Solid G.Cd. Low | ATR]. TSL: <1:2 Large,  >1:2 Tight
 	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone & Fix 1:3 for impulse & 1:2 for corrective move
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
+	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or based on Spot RS zone 
 	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade in last 30 min 
-	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or max Spot | Fut. targets
 	•	If SL hit + immediate Engulf Sd Red Cd then use 1 min CCC for 3 min TL, due to SL hunt reversal 
+	•	At super bullish you can use 1 min BO CCC of 3 min TL
+	•	Keep drawing TL | RS Z | Channels | Ranges
 	•	RS Zone BO wait for Retrace + Reversal Patt: M/E Star | B/B Engulfing opposite color solid cd  | TL BO | Cons. BO, early entry like close above 20 EMA can be used in case of 15 min TL BO | RS BO and retest RS Zone
 	•	Swing - at least 2 | 3 right side have lower highs for Sw Hi | higher lows for Sw Lo, or use TL with Breaks [LuxAlgo] - Swing Dey Look back 3 
 	•	Always use 3 min TL BO as it is most reliable then 1 min TL, but for early entry 1 min CCC can be used only for double bottom | Reversal after false BO | SL hunt
 	•	RR calculation is always based on 3 min only 
+	•	Overnight position Open 15 low can act as SL 
 
 
 
@@ -26,7 +32,6 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 
 
 	•	Spot and option chart is sufficient no need to check Futures 
-	•	Even O1ME TL BO aline to OG 3 min RR Trgt
 	•	Entry | Exit check 1 & 3 min - TL BO & SL 15%
 	•	Technical wins even in last 25 min of expiry 
 	•	O1ME* - If TSL holds then  - 1 min TL BO | Swing BO | Engulf - S.Red Cd | Cons BO.  Entry GCCC > 1:1|1:2 RR, Risky > 3 min 1:3 RR 
