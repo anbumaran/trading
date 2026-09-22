@@ -5,18 +5,20 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 	•	RS BO & Retest RS 3 | 5 mins TF E: near 50 EMA TL BO+ 20<>50<>200EMA
 	•	Rev 15 min: D T|B @ RS + RSI div & 5 min TL BO (3 Sw must) + HL / LH + <> 50 EMA + RS BO. RS: Pre & Cur Day H/L, CPR, Chan, TL
 	•	Consol - Horizontal | Channels: Closer Sw | Ranged | ADX < 20 | 15 min 2x Sw Ho & Lo & check Channel / Box | flat 50 EMA & VWAP 
-	•	Option: RS | TL BO must in 15 min + Entry 3 min - Slant RHS TL BO + Price >20 EMA.
-	•	Early E.: DB @ RS | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL must be in 3 min)
+	•	Option E: 3 min Slant RHS TL BO + >20 EMA.
+	•	Early E.: DB @ RS | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL always be in 3 min)
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
 	•	Trend Side | Higher Low: Closer TL
 	•	Counter Trend | Without HL: faraway TL
 	•	Avoid TL BO with all Sw H are < 20 EMA except Early entry cases DB | False BO Rev
 	•	BO~1:1 RR: Sw Lo | Sd Cd Lo + <20EMA 3 min
-	•	SL - Closer of [Sw Lo before High | Solid G.Cd. Low | ATR]. TSL: <1:2 Large,  >1:2 Tight
-	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone & Fix 1:3 for impulse & 1:2 for corrective move
+	•	SL - Closer of [Sw Lo | Solid G.Cd. Low - before High]. TSL: <1:2 Large,  >1:2 Tight
+	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
 	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or based on Spot RS zone 
-	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade in last 30 min 
+	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m)
+	•	Reversal trade march spot time with Option BO time for RR target calculation 
+	•	No assumption based jackpot trade pos all must follow technicals 
 	•	If SL hit + immediate Engulf Sd Red Cd then use 1 min CCC for 3 min TL, due to SL hunt reversal 
 	•	At super bullish you can use 1 min BO CCC of 3 min TL
 	•	Keep drawing TL | RS Z | Channels | Ranges
