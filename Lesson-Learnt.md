@@ -2,21 +2,24 @@
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
 	•	S.Trend move btw RS 15 min TF E: Price 10 <> 20 <>50 EMA. No Trade during Bull: 10< 20 | Bear: 10>20 EMA, E Only if 15 min TL BO
-	•	RS BO & Retest RS 3 | 5 mins TF E: near 50 EMA TL BO+ 20<>50<>200EMA
-	•	Rev 15 min: D T|B @ RS + RSI div & 5 min TL BO (3 Sw must) + HL / LH + <> 50 EMA + RS BO. RS: Pre & Cur Day H/L, CPR, Chan, TL
-	•	Consol - Horizontal | Channels: Closer Sw | Ranged | ADX < 20 | 15 min 2x Sw Ho & Lo & check Channel / Box | flat 50 EMA & VWAP 
+	•	RS BO & Retest RS 3 | 5 mins TF E: near 50 EMA + TL BO+ 20<>50<>200EMA
+	•	Rev 15 min: D T|B @ RS + RSI div & 5 min: TL BO (3 Sw must) + HL / LH + RS BO | Sw BO + <>50EMA. Pre & Cur Day H/L, CPR, Chan, TL
+	•	Spot RS | TL very important in consol. days than Strong trending Days
+	•	Consol - Horizontal | Channels: Closer Sw | Ranged | ADX < 20 | 15 min 2x Sw Ho & Lo & check Channel / Box | flat 50 EMA & VWAP
 	•	Option E: 3 min Slant RHS TL BO + >20 EMA.
 	•	Early E.: DB @ RS | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL always be in 3 min)
+	•	Late Entry: TL BO | Rev Spot conf., RR always TL BO point irrespective of Spot conf.
 	•	Valid TL BO - Clear Swings + Non Flat | Non faraway Steep Sw H + Clear CCC > 20 EMA. 
 	•	Trend Side | Higher Low: Closer TL
 	•	Counter Trend | Without HL: faraway TL
 	•	Avoid TL BO with all Sw H are < 20 EMA except Early entry cases DB | False BO Rev
 	•	BO~1:1 RR: Sw Lo | Sd Cd Lo + <20EMA 3 min
 	•	SL - Closer of [Sw Lo | Solid G.Cd. Low - before High]. TSL: <1:2 Large,  >1:2 Tight
-	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone
+	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. Super move beyond >1:3RR use 1:4 | hold till bearish pattern Evening Star | Bearish Engulf 
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
 	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or based on Spot RS zone 
 	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m)
+	•	Option entry can be late due to spot confirmation but RR be based on TL BO Cd
 	•	Reversal trade march spot time with Option BO time for RR target calculation 
 	•	No assumption based jackpot trade pos all must follow technicals 
 	•	If SL hit + immediate Engulf Sd Red Cd then use 1 min CCC for 3 min TL, due to SL hunt reversal 
@@ -27,6 +30,7 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 	•	Always use 3 min TL BO as it is most reliable then 1 min TL, but for early entry 1 min CCC can be used only for double bottom | Reversal after false BO | SL hunt
 	•	RR calculation is always based on 3 min only 
 	•	Overnight position Open 15 low can act as SL 
+	•	Targets can be fixed using Elliot or 3 min RR 
 
 
 
