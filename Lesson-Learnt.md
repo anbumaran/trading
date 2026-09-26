@@ -17,9 +17,10 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 	•	SL - Closer of [Sw Lo | Solid G.Cd. Low - before High]. TSL: <1:2 Large,  >1:2 Tight
 	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. Super move beyond >1:3RR use 1:4 | hold till bearish pattern Evening Star | Bearish Engulf 
 	•	iSL | TSL hit - wait for O3ME, Not O1ME
-	•	Option 3 min - EW. ABC if 50<200 EMA & Impulsive 1-2-3-4 if 50>200 EMA, keep max target like 1:3 RR or based on Spot RS zone 
+	•	Option 3 min - EW. ABC if 50<200 EMA | Counter Trend, Corrective move & Impulsive 1-2-3-4 if 50>200 EMA | Trend Side Impulsive move, keep max target like 1:3 RR or based on Spot RS zone 
 	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m)
 	•	Option entry can be late due to spot confirmation but RR be based on TL BO Cd
+	•	After large move it is more of distribution 
 	•	Reversal trade march spot time with Option BO time for RR target calculation 
 	•	No assumption based jackpot trade pos all must follow technicals 
 	•	If SL hit + immediate Engulf Sd Red Cd then use 1 min CCC for 3 min TL, due to SL hunt reversal 
@@ -76,11 +77,7 @@ If any of you lacks wisdom, you should ask God, who gives generously to all with
 	•	Major lost factors - When No SL placed | SL hit and still continues to hold | Buy / Rebuy when there is no BO | heavy overnight exposure | 1 min scalping without following above BO rules | Holding
 	•	No overtrade near TL | RS Zone - wait for clear BO | Reversal | Consol.
 	•	Keep drawing RS zone in Option for RS & SL
-Market Type	Best Trailing Method
-Strong Trend Day	Swing Low
-Normal Trending Day	Solid Candle Low
-Breakout Trade	Breakout Candle Low
-Choppy Day	Fixed Profit Booking (1:2 or 1:3)
+￼
 https://youtu.be/69eCW5rRBh8?si=NBwLFyPUXT_726KQ
 
 
