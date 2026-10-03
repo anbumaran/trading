@@ -1,645 +1,644 @@
-    Praise The LORD JESUS
-If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. 
-- James 1:5 
+             Praise The LORD JESUS
+If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
-• Spot M(O-1Hr): Gap Open, Option E: TL BO in 15 min, First 3 min CCC & TSL - 1 / 3 min | 1 min TL BO - 1:3 / 1:4 RR T 
-• Spot M: between RS 15 min in TF E: 10 <> 20 <>50 EMA. No Trade if 10 EMA not aligned, E if 15 min TL BO | All 3 EMA aligned 
-• Option E: 3 min Slant TL BO + >20 EMA + HL (A clear HL at least in 1 min) 
-• Spot RS BO & Retest - 3 | 5 mins TF near 50 EMA + TL BO + 20<>50<>200EMA 
-• Option E: 3 min | 1 min (>200 EMA) - M/E Star | B/B Engulfing opposite color solid cd | TL BO | Cons. BO | > 20 EMA 
-• Rev 15 min: D T|B @ RS + RSI div & 5 min: TL BO (3 Sw TL) + HL / LH + Sw BO | Intraday BO RS [Pre & Cur Day H/L, CPR, Chan, TL] 
-• Option Late E: RR always TL BO point irrespective of Late entry after Spot Rev Confirm. 
-• Option Early E.: DB | False BO / SL hunt Rev - Solid Red Cd Engulf + CCC >20EMA 3 min | 1 min CCC TL BO (TL always be in 3 min) 
-• Low Move day: Spot RS | TL. Strong Trending Day: Elliot W | RR Targets can break any RS 
-• Consol 15 min: Ranged btw Box | Channel – 2x Sw H&L. 5 min: Closer Sw, Multitouch & Flat - 50 EMA & VWAP | ADX < 20  
-• Valid TL BO: 1) Clear Swings in 3 min 2) Non Flat | Non faraway Steep Swing H 2) Clear CCC > 20 EMA 4) Higher Low 5) At least 1 Swing H > 20 EMA 6) Exception: Early entry cases DB | False BO Rev | Aggressive move | Gap Open BO - 1 Hr 
-• BO~1:1 RR (iSL): Sw Lo | Sd Cd Lo + <20EMA 3 min 
-• SL - Closer of [Sw Lo | Solid G.Cd. Low - before High]. TSL: <1:2 Large, >1:2 Tight 
-• No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. Super move beyond >1:3RR use 1:4 | hold till bearish pattern Evening Star | Bearish Engulf 
-• iSL | TSL hit - wait for O3ME, Not O1ME 
-• Option - EW. ABC if 50<200 EMA | Counter Trend | Corrective move 
-• Option - Impulsive EW 1-2-3-4 if 50>200 EMA | Trend Side Impulsive move, keep max target like 1:3 | 1:4 RR | based on Spot RS zone 
-• Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m)
+	•	Spot M Gap Open. Option E: TL BO in 15 min, First 3 min CCC & TSLz 1 / 3 min | O-1Hr Aggressive move: 1 min TL BO  1:3 / 1:4 RR T
+	•	Spot M between RS 15 min TF - 10 <> 20 <>50 EMA. No Trade if 10 EMA not aligned, Re-Enter if 15 min TL BO | All 3 EMA aligned Option E: 3 min Slant TL BO + >20 EMA + HL
+	•	Spot M RS BO & Retest 3 | 5 mins TF near 50 EMA + TL BO + 20<>50<>200EMA. Option E: 3 min | 1 min (>200 EMA) - M/E Star | B/B Engulfing opposite color solid cd  | TL BO | Cons. BO | > 20 EMA
+	•	Spot Rev M 15 min D T|B @ RS + RSI div & 5 min: TL BO (3 Sw TL) + HL / LH + Sw BO | Intraday BO RS [Pre & Cur Day H/L, CPR, Chan, TL]. Option Late E after Spot Rev Conf. RR always TL BO point irrespective of Late E
+	•	Option Early E.: DB | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL always be in 3 min)
+	•	Low Move day: Spot RS | TL. Strong Trending Day: Elliot W | RR Targets can break any RS
+	•	Consol 15 min: Ranged btw Box | Channel – 2x Sw H&L. 5 min: Closer Sw, Multitouch & Flat - 50 EMA & VWAP | ADX < 20 
+	•	Valid TL BO: 1) Clear Swings in 3 min 2) Non Flat | Non faraway Steep Swing H 2) Clear CCC > 20 EMA 4) Higher Low 5) At least 1 Swing H > 20 EMA 6) Exception: Early entry cases DB | False BO Rev | Aggressive move | Gap Open BO ~ 1 Hr  Valid TL BO: 1) Clear Sw 2) Non Flat | Non faraway Steep Sw H 2) Clear CCC > 20 EMA 4) Higher L 5) Atleast 1 Sw H > 20 EMA 6) Except:  EarlyE DB | False BO Rev | Agg move
+	•	iSL~BO: Sw Lo | Sd Cd Lo + <20EMA 3 min
+	•	SL - Closer of [Sw Lo | Solid G.Cd. Low - before High]. TSL: <1:2 Large,  >1:2 Tight
+	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. Super move beyond >1:3RR use 1:4 | hold till bearish pattern Evening Star | Bearish Engulf 
+	•	iSL | TSL hit - wait for O3ME, Not O1ME
+	•	Option - EW. ABC if 50<200 EMA | Counter Trend | Corrective move  
+	•	Option - Impulsive EW 1-2-3-4 if 50>200 EMA | Trend Side Impulsive move, keep max target like 1:3 | 1:4 RR | based on Spot RS zone  
+	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m) Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL. No Trade after 3 pm (last 40 min)
 
-Abbreviations 
-	• BO - Break Out 
-	• RS - Resistance | Support 
-	• TF - Time Frame 
-	• EMA - Exponential Moving Average 
-	• HL - Higher Low 
-	• LW - Lower High 
-	• SL – Stop Loss
-	• TSL – Trailing Stop Loss
-	• D - Double 
-	• T - Top 
-	• Tgt - Target
-	• B - Bottom 
-	• RR - Risk vs Reward 
-	• Sw – Swing
-
-Sport Trend Direction: 
-• Move between RS 15 min in TF Entry: 
-	○ Bull Price>10>20>50 EMA 
-	○ Bear Price<10<20<50 EMA 
-	○ No Trade during if 10<20>50 EMA | 10>20<50 EMA, Entry if 15 min TL BO | All 3 EMAs aligned for Bull / Bear 
-	
-• Trend RS BO & Retest RS - In 3 | 5 mins TF Entry: 
-	○ Buy TL BO + Near 50 EMA + 20<>50<>200EMA 
-	• Close position as soon as price approaches RS | TL Zone (both Intraday and long term), re-enter after BO + Retracement + BO side Trend continuation 
-	• M/E Star | B/B Engulfing opposite color solid cd | TL BO | Cons. BO | > 20 EMA 
-
-	
-• Trend Reversal @ RS: 
-	○ 15 min: Double T|B @ RS + RSI divergence + 
-	○ 5 min: TL BO (3 Swing TL) + HL / LH + Intraday RS BO | Swing BO + <>50EMA. 
-	
-Horizontal Resistance & Support in 15 min - Long term: 
-	• At Swing & Change of Pattern from HTHB to LTLB | LTLB to HTHB 
-	• A Double Bottom | Double Top
-	• Create RS Zone connecting Self/Other near range Swing Wick | Candle close | Gap Low | High using rectangle 
-
-Horizontal Resistance & Support in 5 min - Intraday: 
-	• Same as above using Swing & Change of Pattern 
-	• Pre & Cur Day H/L, CPR 
-
+ 
+Abbreviations
+	•	BO - Break Out
+	•	RS - Resistance | Support
+	•	TF - Time Frame
+	•	EMA - Exponential Moving Average
+	•	HL - Higher Low
+	•	LW - Lower High
+	•	SL – Stop Loss
+	•	TSL – Trailing Stop Loss
+	•	D - Double
+	•	T - Top
+	•	Tgt - Target
+	•	B - Bottom
+	•	RR - Risk vs Reward
+	•	Sw – Swing
+ 
+Sport Trend Direction:
+	•	Move between RS 15 min in TF Entry:
+	•	Bull Price>10>20>50 EMA
+	•	Bear Price<10<20<50 EMA
+	•	No Trade during if 10<20>50 EMA | 10>20<50 EMA, Entry if 15 min TL BO | All 3 EMAs aligned for Bull / Bear
+ 
+	•	Trend RS BO & Retest RS - In 3 | 5 mins TF Entry:
+	•	Buy TL BO + Near 50 EMA + 20<>50<>200EMA
+	•	Close position as soon as price approaches RS | TL Zone (both Intraday and long term), re-enter after BO + Retracement + BO side Trend continuation
+	•	M/E Star | B/B Engulfing opposite color solid cd | TL BO | Cons. BO | > 20 EMA
+ 
+ 
+	•	Trend Reversal @ RS:
+	•	15 min: Double T|B @ RS + RSI divergence +
+	•	5 min: TL BO (3 Swing TL) + HL / LH + Intraday RS BO | Swing BO + <>50EMA.
+ 
+Horizontal Resistance & Support in 15 min - Long term:
+	•	At Swing & Change of Pattern from HTHB to LTLB | LTLB to HTHB
+	•	A Double Bottom | Double Top
+	•	Create RS Zone connecting Self/Other near range Swing Wick | Candle close | Gap Low | High using rectangle
+ 
+Horizontal Resistance & Support in 5 min - Intraday:
+	•	Same as above using Swing & Change of Pattern
+	•	Pre & Cur Day H/L, CPR
+ 
 Channel & TL - use 15 min for Long term | 5 min for Intraday:
-	• If two Swing H/L formed draw Channels | Trend Lines 
-	
+	•	If two Swing H/L formed draw Channels | Trend Lines
+ 
 Sport Direction Weightage:
-	• Spot RS | TL very important in consol. days | Low moment days 
-	• On Strong trending Days - Elliot Wave Projection | Option RR Targets are Important than RS 
-	
+	•	Spot RS | TL very important in consol. days | Low moment days
+	•	On Strong trending Days - Elliot Wave Projection | Option RR Targets are Important than RS
+ 
 No Trade | Consol Days:
-	• Horizontal Zone | Channels – 2x Swing Highs & Lows
-	• Ranged between High & Low 
-	• Flat & Multitouch - 50 EMA & VWAP | ADX < 20
-	
+	•	Horizontal Zone | Channels – 2x Swing Highs & Lows
+	•	Ranged between High & Low
+	•	Flat & Multitouch - 50 EMA & VWAP | ADX < 20
+ 
 Option Normal Entry:
-	•  3 min Slant RHS TL BO + >20 EMA. 
-	
+	•	 3 min Slant RHS TL BO + >20 EMA.
+ 
 Option Early Entry - DB @ RS | False BO / SL hunt Reversal:
-	• Solid Red Cd Engulf + CCC >20EMA in 3 min | 
-	• BO CCC in 1 min above 3 min TL
-	
+	•	Solid Red Cd Engulf + CCC >20EMA in 3 min |
+	•	BO CCC in 1 min above 3 min TL
+ 
 Option Late Entry - Trend Reversal Sport confirmation:
-	•  RR Targets always based on TL BO point irrespective of Late entry in Option after Spot confirmation 
-	
+	•	 RR Targets always based on TL BO point irrespective of Late entry in Option after Spot confirmation
+ 
 Valid Option TL BO:
-	• Max touch number of candle as well as farther away near to wick High
-	• Adjust TL for every false BO
-	• TL must be always based on 3 min either Normal | Early | Late entry 
-	• Clear Swings - 2 | 3 Candle Higher/Lower than Swing H / L  
-	• TL must not include faraway Initial | Steep Swing High & include only Clear Swings 
-	• Clear CCC > 20 EMA in 3 min
-	• Trend Side | Higher Low: Closer TL
-	• Counter Trend | Without HL: Far away TL 
-	• Avoid TL BO with all Swing High are < 20 EMA except Early entry cases DB | False BO Rev 
-	• If Initial | Trailing SL hit - wait for 3 min TL formation, 1 min TL are not reliable
-	
+	•	Max touch number of candle as well as farther away near to wick High
+	•	Adjust TL for every false BO
+	•	TL must be always based on 3 min either Normal | Early | Late entry
+	•	Clear Swings - 2 | 3 Candle Higher/Lower than Swing H / L 
+	•	TL must not include faraway Initial | Steep Swing High & include only Clear Swings
+	•	Clear CCC > 20 EMA in 3 min
+	•	Trend Side | Higher Low: Closer TL
+	•	Counter Trend | Without HL: Far away TL
+	•	Avoid TL BO with all Swing High are < 20 EMA except Early entry cases DB | False BO Rev
+	•	If Initial | Trailing SL hit - wait for 3 min TL formation, 1 min TL are not reliable
+ 
 Stop-Loss & Targets:
-	• RR - Risk: Price diff between BO Point and Initial SL, Reward can be 1x, 2x, 3x of Risk. All calculation must be in 3 min 
-	• BO Point ~1:1 RR [Initial SL]: Swing Low | Solid Candle Low + <20EMA in 3 min before BO
-	• TSL <1:2RR Large | >1:2RR Tight - Closer of [Swing Lo | Solid Green Cd Low - before High].
-	• Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. 
-	• Super move beyond >1:3RR use 1:4RR in 3 min | hold till bearish pattern Evening Star | Bearish Engulf in 1 min
-	• SL: consolidation zone Solid green candle low below consolidation zone low 
-	• Option Targets – Swing High | Close | Open | 2x Candle High
-
-Trade Discipline: 
-	• Major lost factors - When No SL placed | SL hit and still continues to hold | Buy / Rebuy when there is no BO | heavy overnight exposure | 1 min scalping without following above BO rules | Holding & dreaming of Huge target without considering Technical factors  
-	• Never ever buy without TL BO (except early entry cases)
-	• RR calculation is always based on 3 min only 
-	• No Intraday Trade after 3 pm (15 min before Sport Trading Stops) due unpredictable CAS, Can take Over night position and Vise versa
-	• consolidation after large move is more of false BO & distribution, as crowed convinced of the move. Unexpected early entry is the best 
-	• No assumption based jackpot trade position, always follow technicals even on expiry day
-	• Option Overnight position Open 15 low can act as SL & Aways use TSL to exit Position
-	• Spot and option chart is sufficient no need to check Futures 
-	• Technical wins even in last 25 min of expiry 
-	• False BO – Falling back below | above RS | TL in next one / two candle 
-	• Typical impulse - 1 to 3 candle retrace not more than 50% of swing | solid big candle. 
-	• After larger move, 1 min TL BO have 1:1 RR target only unless RS | TL BO in sport decisively
-	• Do not enter trade once 1:2 | 1:3 RR targets achieved and breaks below BO entry point 
-	• Initial 3 min 1:2 | 1:3 RR are important target even for 1 min based re-entry
-	• Avoid late entry > 1:1 RR
-	• Do not enter after achieving 1:1 ~ 1:3 RR Targets unless TL BO in 3 min & RS | TL is away
-	• Keep watching TL & RS Zone in 15 min
-	• P. Profit 1/6 @ 1:1 RR>Move TSL BO Pt, 2/6 @ 1:2 | 2/6 @ 1:3 RR, 1/6 Trail 
-	• 60min TL BO for N-1, N-2 day positional with max exposure 33% AC value. positional buy only after 3 pm, till then intraday trade method only.. 
-	• Option 120~160 price. 
-	• Always SL must 
-	• Cancel old GTC order, avoid unexpected execution 
-	• Option Swing High & TL are targets, it does not stop at swing lows 
-	• VWAP & VWAP Century - act as RS 
-	• Ignore Option OI Put vs Call & Price vs OI
-	• Keep drawing RS zone in Option for RS & SL
-	• HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels 
-	• Spot Dir. - near / far wrt 3 min 20 EMA, Option 3 min [O3ME*]
-	• N-1|2(Fri**) Positional: TL BO in 1 Hr Spot, max 33% AC exposure 
-
-Advanced Technical Analysis (FALSE BREAKOUT TRAPS!) 
-
-
-  
-• Candle Pattern for BO Entry >>> only when strong Solid close higher with insignificant wick, Avoid if >40% Candle Wick as it is weak and bound to make false BO  
-• BO & Re-Entry >>> Progressively move BO level of Swing H/L | TL - Higher and Higher | Lower and Lower on every failed Wick | Swing, unless a strong CCC in 5 min as specified above. If no clear swings in 5 min, then to find clear Swing H/L, Trend Line you can use 3 min | 1 min chart but BO much be confirmed in 5 min chart  
-• Hanging man | Hammer | Solid candle with out engulf not sufficient  
-• Option price is in sync with Future, real buying or selling happens in Options | Futures, so BO need to be confirmed in these charts esp. Option Chart.   
-• 5 min chart is most reliable than small TF like 1 min | 3 min  
-• 5 min BO & Candle Pattern & Solid Candle Close Confirmation (CCC) is very very important for all Entry  
-• Option chart - After large move completes and once red candle appears, never ever re-enter unless a solid green candle with above conditions satisfies   
-• Entry based on Solid CCC & Engulf pattern only when trend is supporting i.e. HTHB | LTLB.  
-• Reversal >>> need stronger confirmation, a clear TL BO | Swing BO esp. in 5 min is must, Solid CCC & Engulf pattern is not sufficient.  
-• Always check HTHB | LTLB pattern + Candle pattern – Solid Candle | Wick size + TL / RS zone  
-• Draw TL if there is Swing available in 3 min and above TFs, do not use 1 min | 2 min to draw TL  
-• A Fake BO, will BO without any retracement at RS zone | TL, if next candle falls back then it is fake BO   
-• When significant profit is there, then 60% Partially exit previous swing high (95% it will hit), rest 40% keep tail SL.  
-• After initial move, also book profit at EMAs, VWAP, Swings and move rest position at buy price. So they you always close in profit. If initial SL hit, then keep | move S BO / TL BO level to much stronger one, enter only on Strong CCC BO with insignificant wick for BO candle   
-• If TSL in 5 min is very large use 3 min | 5 EMA, whichever is reasonable TSL     
-• Never enter base on buying near SL, all entry much have Solid Green CCC.   
-• Even very aggressive entry there should be TL BO | solid candle close | swing high BO in lower TF like 3 min | 1 min. Never enter randomly   
-• Last 45 min expiry, technicals will fail, better avoid trading   
-• First Open 45 min trade should be based on 5~ 15 min ORB, Previous Day High / Low, SGX / GIFT Nifty TL BO. There should be swing available to trade normally  
-• BO Failure >>> Next candle falls back into Swing BO line | TL  
-• Enter after BO, Exit at Nearest Target, wait for next candle close, if CCC above the RS zone, then rebuy, ignore wick BO.  
-• On strong trending day 15 min & 60 min RSI >60 | <40, counter trade only 15 min Swing BO and CCC  
-• 20 & 50 EMAs can give additional concurrence on BO 
-
+	•	RR - Risk: Price diff between BO Point and Initial SL, Reward can be 1x, 2x, 3x of Risk. All calculation must be in 3 min
+	•	BO Point ~1:1 RR [Initial SL]: Swing Low | Solid Candle Low + <20EMA in 3 min before BO
+	•	TSL <1:2RR Large | >1:2RR Tight - Closer of [Swing Lo | Solid Green Cd Low - before High].
+	•	Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone.
+	•	Super move beyond >1:3RR use 1:4RR in 3 min | hold till bearish pattern Evening Star | Bearish Engulf in 1 min
+	•	SL: consolidation zone Solid green candle low below consolidation zone low
+	•	Option Targets – Swing High | Close | Open | 2x Candle High
+ 
+Trade Discipline:
+	•	Major lost factors - When No SL placed | SL hit and still continues to hold | Buy / Rebuy when there is no BO | heavy overnight exposure | 1 min scalping without following above BO rules | Holding & dreaming of Huge target without considering Technical factors 
+	•	Never ever buy without TL BO (except early entry cases)
+	•	RR calculation is always based on 3 min only
+	•	No Intraday Trade after 3 pm (15 min before Sport Trading Stops) due unpredictable CAS, Can take Over night position and Vise versa
+	•	consolidation after large move is more of false BO & distribution, as crowed convinced of the move. Unexpected early entry is the best
+	•	No assumption based jackpot trade position, always follow technicals even on expiry day
+	•	Option Overnight position Open 15 low can act as SL & Aways use TSL to exit Position
+	•	Spot and option chart is sufficient no need to check Futures
+	•	Technical wins even in last 25 min of expiry
+	•	False BO – Falling back below | above RS | TL in next one / two candle
+	•	Typical impulse - 1 to 3 candle retrace not more than 50% of swing | solid big candle.
+	•	After larger move, 1 min TL BO have 1:1 RR target only unless RS | TL BO in sport decisively
+	•	Do not enter trade once 1:2 | 1:3 RR targets achieved and breaks below BO entry point
+	•	Initial 3 min 1:2 | 1:3 RR are important target even for 1 min based re-entry
+	•	Avoid late entry > 1:1 RR
+	•	Do not enter after achieving 1:1 ~ 1:3 RR Targets unless TL BO in 3 min & RS | TL is away
+	•	Keep watching TL & RS Zone in 15 min
+	•	P. Profit 1/6 @ 1:1 RR>Move TSL BO Pt, 2/6 @ 1:2 | 2/6 @ 1:3 RR, 1/6 Trail
+	•	60min TL BO for N-1, N-2 day positional with max exposure 33% AC value. positional buy only after 3 pm, till then intraday trade method only..
+	•	Option 120~160 price.
+	•	Always SL must
+	•	Cancel old GTC order, avoid unexpected execution
+	•	Option Swing High & TL are targets, it does not stop at swing lows
+	•	VWAP & VWAP Century - act as RS
+	•	Ignore Option OI Put vs Call & Price vs OI
+	•	Keep drawing RS zone in Option for RS & SL
+	•	HTF 15 & 60 min - Trend, RSI <40 ~ 60<, Elliot W - Impulse | Corrective | Channels
+	•	Spot Dir. - near / far wrt 3 min 20 EMA, Option 3 min [O3ME*]
+	•	N-1|2(Fri**) Positional: TL BO in 1 Hr Spot, max 33% AC exposure
+ 
+Advanced Technical Analysis (FALSE BREAKOUT TRAPS!)
+ 
+￼
+ 
+	•	Candle Pattern for BO Entry >>> only when strong Solid close higher with insignificant wick, Avoid if >40% Candle Wick as it is weak and bound to make false BO 
+	•	BO & Re-Entry >>> Progressively move BO level of Swing H/L | TL - Higher and Higher | Lower and Lower on every failed Wick | Swing, unless a strong CCC in 5 min as specified above. If no clear swings in 5 min, then to find clear Swing H/L, Trend Line you can use 3 min | 1 min chart but BO much be confirmed in 5 min chart 
+	•	Hanging man | Hammer | Solid candle with out engulf not sufficient 
+	•	Option price is in sync with Future, real buying or selling happens in Options | Futures, so BO need to be confirmed in these charts esp. Option Chart.  
+	•	5 min chart is most reliable than small TF like 1 min | 3 min 
+	•	5 min BO & Candle Pattern & Solid Candle Close Confirmation (CCC) is very very important for all Entry 
+	•	Option chart - After large move completes and once red candle appears, never ever re-enter unless a solid green candle with above conditions satisfies  
+	•	Entry based on Solid CCC & Engulf pattern only when trend is supporting i.e. HTHB | LTLB. 
+	•	Reversal >>> need stronger confirmation, a clear TL BO | Swing BO esp. in 5 min is must, Solid CCC & Engulf pattern is not sufficient. 
+	•	Always check HTHB | LTLB pattern + Candle pattern – Solid Candle | Wick size + TL / RS zone 
+	•	Draw TL if there is Swing available in 3 min and above TFs, do not use 1 min | 2 min to draw TL 
+	•	A Fake BO, will BO without any retracement at RS zone | TL, if next candle falls back then it is fake BO  
+	•	When significant profit is there, then 60% Partially exit previous swing high (95% it will hit), rest 40% keep tail SL. 
+	•	After initial move, also book profit at EMAs, VWAP, Swings and move rest position at buy price. So they you always close in profit. If initial SL hit, then keep | move S BO / TL BO level to much stronger one, enter only on Strong CCC BO with insignificant wick for BO candle  
+	•	If TSL in 5 min is very large use 3 min | 5 EMA, whichever is reasonable TSL    
+	•	Never enter base on buying near SL, all entry much have Solid Green CCC.  
+	•	Even very aggressive entry there should be TL BO | solid candle close | swing high BO in lower TF like 3 min | 1 min. Never enter randomly  
+	•	Last 45 min expiry, technicals will fail, better avoid trading  
+	•	First Open 45 min trade should be based on 5~ 15 min ORB, Previous Day High / Low, SGX / GIFT Nifty TL BO. There should be swing available to trade normally 
+	•	BO Failure >>> Next candle falls back into Swing BO line | TL 
+	•	Enter after BO, Exit at Nearest Target, wait for next candle close, if CCC above the RS zone, then rebuy, ignore wick BO. 
+	•	On strong trending day 15 min & 60 min RSI >60 | <40, counter trade only 15 min Swing BO and CCC 
+	•	20 & 50 EMAs can give additional concurrence on BO
+ 
 Higher TF & Elliot Wave
-	• High probability of Trend direction – Channels | Impulse | Corrective Waves
-	• 15 min – RSI divergence + Slight BO + EW 2 vs EW 4 – Time and Depth of Correction + Check Irregular Correction EW.2 /4 vs Breakout for EW.3 / 5
-	
+	•	High probability of Trend direction – Channels | Impulse | Corrective Waves
+	•	15 min – RSI divergence + Slight BO + EW 2 vs EW 4 – Time and Depth of Correction + Check Irregular Correction EW.2 /4 vs Breakout for EW.3 / 5
+ 
 Spot Trend Decider:
-	• Neutral - RSI 40 ~ 60 in 15 min** & Trend decider - Price <> 21 <> 50** EMA in 3 min (>11:30 am) + VWAP, Add. Ref. 15 & 60 min HTHB / LTLB. Reversal - TL BO + Double T|B @ RS Zone + Price <> 20 | 50 EMA 3 min + Enter after updated TL BO after D T|B 
-	• Reversal TL BO - Double T / B must | HTHB / LTLB  
-	• Momentum RSI >60 & <40 in 15 min & 1 hr, Trend side trade only, Corrective Channels may exist, Enter only on Chan BO.Reversal HTHB | LTLB formation, Counter trend Short target with 1:1 RR only. 
-	• Gap Open | Big intraday -  far away from 21 & 50 EMA in 3 min, TL BO will snap back to EMAs, Irrespective of RSI, can use overnight futures to draw TL.
-	• Gap up | down Reversal - Gap side H/L not violated, HTHL | LTLB formed wrt VWAP & 21 EMA in 3 min. 
-	•  RS Zone BO, there might me retracement | consolidation, enter on BO of Range | Triangles | M/E Star | B/B Engulfing | TL BO
-	• Bear / Bull – Upward / Downward slopping support - TL BO
-	•  RS Zone (Intraday & Pos. - min. 2 | 3 reversals) BO + Retrace for higher low / lower high | Consolidation  + [M/E Star | B/B Engulfing | TL BO | Conso. BO], Just Swing BO is low probability
-	• Too Steep TL BO >50 deg wait for HL >> TL BO
-	• Too flat TL <15, Consol., Fake BO >> Check for Channels (also for counter Trend Trade during Aggressive <40 & >60 RSI in 15 & 16 min)
-	
+	•	Neutral - RSI 40 ~ 60 in 15 min** & Trend decider - Price <> 21 <> 50** EMA in 3 min (>11:30 am) + VWAP, Add. Ref. 15 & 60 min HTHB / LTLB. Reversal - TL BO + Double T|B @ RS Zone + Price <> 20 | 50 EMA 3 min + Enter after updated TL BO after D T|B
+	•	Reversal TL BO - Double T / B must | HTHB / LTLB 
+	•	Momentum RSI >60 & <40 in 15 min & 1 hr, Trend side trade only, Corrective Channels may exist, Enter only on Chan BO.Reversal HTHB | LTLB formation, Counter trend Short target with 1:1 RR only.
+	•	Gap Open | Big intraday -  far away from 21 & 50 EMA in 3 min, TL BO will snap back to EMAs, Irrespective of RSI, can use overnight futures to draw TL.
+	•	Gap up | down Reversal - Gap side H/L not violated, HTHL | LTLB formed wrt VWAP & 21 EMA in 3 min.
+	•	 RS Zone BO, there might me retracement | consolidation, enter on BO of Range | Triangles | M/E Star | B/B Engulfing | TL BO
+	•	Bear / Bull – Upward / Downward slopping support - TL BO
+	•	 RS Zone (Intraday & Pos. - min. 2 | 3 reversals) BO + Retrace for higher low / lower high | Consolidation  + [M/E Star | B/B Engulfing | TL BO | Conso. BO], Just Swing BO is low probability
+	•	Too Steep TL BO >50 deg wait for HL >> TL BO
+	•	Too flat TL <15, Consol., Fake BO >> Check for Channels (also for counter Trend Trade during Aggressive <40 & >60 RSI in 15 & 16 min)
+ 
 3 min Option Entry (after direction is confirmed in Spot):
-	• TL BO to be check in option chart than in Spot chart
-	• All entry - TL BO + Higher Low, Price > 21 EMA 3 min >10:15 am | VWAP, TL BO below is unsustainable. Double Bottom near VWAP | 21/50 EMAs + Green CCC aligned to trend. 
-	• All entry much be Green CCC. 
-	• TL draw farthest and non steep and non flat 
-	• Consol.  Range BO (TL BO will fail, clear GCCC above Consol Rang is must). TL BO - Entry EW.2 and Target EW.3. Higher Bottom** | Double Bottom with RSI divergence
-	• 3 min 21/ 50 EMA | VWAP | VWAP Century act as RS zone
-	• EW. ABC corrective move if 50 < 200 EMA & Impulsive 1-2-3-4 if  50>200 EMA
-	• Option price should be 110 ~ 160. 
-	• Enter EW2 & EW4 BO only, except high momentum days. 
-	• Always check RR buy close to BO candle close, avoid if price already move to1:1, 1:2 target levels. 
+	•	TL BO to be check in option chart than in Spot chart
+	•	All entry - TL BO + Higher Low, Price > 21 EMA 3 min >10:15 am | VWAP, TL BO below is unsustainable. Double Bottom near VWAP | 21/50 EMAs + Green CCC aligned to trend.
+	•	All entry much be Green CCC.
+	•	TL draw farthest and non steep and non flat
+	•	Consol.  Range BO (TL BO will fail, clear GCCC above Consol Rang is must). TL BO - Entry EW.2 and Target EW.3. Higher Bottom** | Double Bottom with RSI divergence
+	•	3 min 21/ 50 EMA | VWAP | VWAP Century act as RS zone
+	•	EW. ABC corrective move if 50 < 200 EMA & Impulsive 1-2-3-4 if  50>200 EMA
+	•	Option price should be 110 ~ 160.
+	•	Enter EW2 & EW4 BO only, except high momentum days.
+	•	Always check RR buy close to BO candle close, avoid if price already move to1:1, 1:2 target levels.
 Target & SL
-	• Consolidation >> Target 1:1 ~ 1:2 RR, if 21 < 50 EMA | 50 < 200 EMA in 3 min.
-	• Impulse >> Target 1:2 ~ 1:3 RR, if Price > 21 > 50 > 200 EMA in 3 min. Target @ Strong TL | RS Zone in Option (3 min Cd. Open | Close | High) | Spot | Future 
-	• 33% Part profit at 1:1, move Initial SL to buy price - to be profitable trader!
-	• No Trade if Target is near < 1:1 RR
-	• Always Option SL (7 ~ 10%) - BO Cd N / N-1 low | Swing low | Solid Green Cd low (better than Range low)
-	• EMAs & VWAP are only for partial profit booking, Risk vs Reward provide better targets esp. During impulse move
-	• Aggressive move RSI >60 & <40 in 15 & 60 min. Trail 1 min solid green candle low, esp. during closing & expiry, as trend reach climax
-	• Re-Buy only after 1 min | 3 min CCC above resistance zone. 
-	• If 3 min Trailing Stop is not hit, then aggressive Re-Buy in 1 min, if hit wait for 3 min TL BO | Range BO
-	
-• High Risky & High reversal probability if RSI >80 & <20 in 15 m & 1 hr. But Trend may hit peak move violently  
-• Per day - Max 4 trades with split at mid day | Max 2 SL & Max loss 20% Option Acc. [2% Overall]
-• Major lost factors - When No SL placed | SL hit and still continues to hold | Buy / Rebuy when there is no BO | heavy overnight exposure | 1 min scalping without following above BO rules | Holding 
-• Never cancel SL | Re-entry with Fear of missing out once well placed SL is hit, Instead Progressively adjust TL BO for failed BO candle wick and wait for next entry
-• No Trade - First & Last 30 min of the day | Last 45 min of Expiry day
-• Overnight Expiry position – 1 | 2 day Max 25% AC + Expected Elliot Wave 3 | 5 + VIX < 20. Only on 15 min TL BO 
-• On Aggressive move & No TSL hit - 1 min TL BO only on price consolidate near temporary RS | TL Zone use Buy SL order for Wave 5 with tight SL
-• Draw RS Zone using 15 min | 1 Hr Swings | Gap fill – Close & High / Lows
-•  No overtrade near TL | RS Zone - wait for clear BO | Reversal | Consol.
-• Suggested Option price range for trade 120 ~ 180 
-• #Enter only when Option 3 min - Green CCC above 20 EMA + Clear  Bottom price + RSI divergence (RSI can form Higher high slightly deviated from price bar)  + TL | S | Cons. BO
-• Never Trade based on 1 min - CCC | >50% retracement | Solid candle Engulf | Anticipated for EW.5 without BO are all bound to fail
-• Keep drawing RS zone in Option for RS & SL, Low momentum use S BO than TL BO
-• Gap day H/L act as RS, if breaks next Day Close. 
-• Option RS target will hit for max profit than exit based on Spot | Fut, except Option RS is far away
-• No fresh entry at elevated prices, near target, swift reversal possible.
-• Buy Option only Green CCC above 20 EMA 
-• SL - consolidation, below green candle low before start of consolidation 
-• Concentrate Option chart once Intraday Trend is confirmed in Spot
-• When price break RS zone, Target | Wait for next one
-• TL drawn over clear Swings gives higher targets can TL drawn over narrow ranges of candles
-• Fake BO wicks highs | lows are not be considered targets, this can be corrective Wave A & B with 78% retracement.  
-• Two higher low can be 3rd of 3rd wave, for fast move 
-
+	•	Consolidation >> Target 1:1 ~ 1:2 RR, if 21 < 50 EMA | 50 < 200 EMA in 3 min.
+	•	Impulse >> Target 1:2 ~ 1:3 RR, if Price > 21 > 50 > 200 EMA in 3 min. Target @ Strong TL | RS Zone in Option (3 min Cd. Open | Close | High) | Spot | Future
+	•	33% Part profit at 1:1, move Initial SL to buy price - to be profitable trader!
+	•	No Trade if Target is near < 1:1 RR
+	•	Always Option SL (7 ~ 10%) - BO Cd N / N-1 low | Swing low | Solid Green Cd low (better than Range low)
+	•	EMAs & VWAP are only for partial profit booking, Risk vs Reward provide better targets esp. During impulse move
+	•	Aggressive move RSI >60 & <40 in 15 & 60 min. Trail 1 min solid green candle low, esp. during closing & expiry, as trend reach climax
+	•	Re-Buy only after 1 min | 3 min CCC above resistance zone.
+	•	If 3 min Trailing Stop is not hit, then aggressive Re-Buy in 1 min, if hit wait for 3 min TL BO | Range BO
+ 
+	•	High Risky & High reversal probability if RSI >80 & <20 in 15 m & 1 hr. But Trend may hit peak move violently 
+	•	Per day - Max 4 trades with split at mid day | Max 2 SL & Max loss 20% Option Acc. [2% Overall]
+	•	Major lost factors - When No SL placed | SL hit and still continues to hold | Buy / Rebuy when there is no BO | heavy overnight exposure | 1 min scalping without following above BO rules | Holding
+	•	Never cancel SL | Re-entry with Fear of missing out once well placed SL is hit, Instead Progressively adjust TL BO for failed BO candle wick and wait for next entry
+	•	No Trade - First & Last 30 min of the day | Last 45 min of Expiry day
+	•	Overnight Expiry position – 1 | 2 day Max 25% AC + Expected Elliot Wave 3 | 5 + VIX < 20. Only on 15 min TL BO
+	•	On Aggressive move & No TSL hit - 1 min TL BO only on price consolidate near temporary RS | TL Zone use Buy SL order for Wave 5 with tight SL
+	•	Draw RS Zone using 15 min | 1 Hr Swings | Gap fill – Close & High / Lows
+	•	 No overtrade near TL | RS Zone - wait for clear BO | Reversal | Consol.
+	•	Suggested Option price range for trade 120 ~ 180
+	•	#Enter only when Option 3 min - Green CCC above 20 EMA + Clear  Bottom price + RSI divergence (RSI can form Higher high slightly deviated from price bar)  + TL | S | Cons. BO
+	•	Never Trade based on 1 min - CCC | >50% retracement | Solid candle Engulf | Anticipated for EW.5 without BO are all bound to fail
+	•	Keep drawing RS zone in Option for RS & SL, Low momentum use S BO than TL BO
+	•	Gap day H/L act as RS, if breaks next Day Close.
+	•	Option RS target will hit for max profit than exit based on Spot | Fut, except Option RS is far away
+	•	No fresh entry at elevated prices, near target, swift reversal possible.
+	•	Buy Option only Green CCC above 20 EMA
+	•	SL - consolidation, below green candle low before start of consolidation
+	•	Concentrate Option chart once Intraday Trend is confirmed in Spot
+	•	When price break RS zone, Target | Wait for next one
+	•	TL drawn over clear Swings gives higher targets can TL drawn over narrow ranges of candles
+	•	Fake BO wicks highs | lows are not be considered targets, this can be corrective Wave A & B with 78% retracement. 
+	•	Two higher low can be 3rd of 3rd wave, for fast move
+ 
 --------------------------------------------------------------------------------------------------------------------
-
-
-• Both Sport and Option chart to concur BO >> 3 min (Strong Trending) | 5 min (Low Trending) Strong Solid CCC without significant wick for every entry
-	• Larger Trend side entry: TL BO | Swing BO – Progressively adjust higher high | lower low wick, TL can be drawn using lower TF, but 5 min CCC is must for every entry
-	• Trend side Re-entry – Solid Candle Engulf + HTHB | LTBL + <50% Swing retracement, use TL BO | S BO in case of >50% Swing retracement. 
-	• Counter Trend: Swing BO as TL BO bound to fail
-
-• Both Sport and Option chart to concur the move
-• All entry much be either TL BO | S BO | Solid candle engulf On Trend side (HTHB|LTLB) +  Swing retracement should not be more than 50, if more than >50% TL / S BO is must. 
-• Candle Pattern for BO Entry >>> only when strong Solid close higher with insignificant wick, Avoid if >40% Candle Wick as it is weak and bound to make false BO
-• BO & Re-Entry >>> Progressively move BO level of Swing H/L | TL - Higher and Higher | Lower and Lower on every failed Wick | Swing, unless a strong CCC in 5 min as specified above. If no clear swings in 5 min, then to find clear Swing H/L, Trend Line you can use 3 min | 1 min chart but BO much be confirmed in 5 min chart
-• Hanging man | Hammer | Solid candle with out engulf not sufficient
-• Option price is in sync with Future, real buying or selling happens in Options | Futures, so BO need to be confirmed in these charts esp. Option Chart. 
-• 5 min chart is most reliable than small TF like 1 min | 3 min
-• 5 min BO & Candle Pattern & Solid Candle Close Confirmation (CCC) is very very important for all Entry
-• Option chart - After large move completes and once red candle appears, never ever re-enter unless a solid green candle with above conditions satisfies 
-• Entry based on Solid CCC & Engulf pattern only when trend is supporting i.e. HTHB | LTLB.
-• Reversal >>> need stronger confirmation, a clear TL BO | Swing BO esp. in 5 min is must, Solid CCC & Engulf pattern is not sufficient.
-• Always check HTHB | LTLB pattern + Candle pattern – Solid Candle | Wick size + TL / RS zone
-• Draw TL if there is Swing available in 3 min and above TFs, do not use 1 min | 2 min to draw TL
-• A Fake BO, will BO without any retracement at RS zone | TL, if next candle falls back then it is fake BO 
-• When significant profit is there, then 60% Partially exit previous swing high (95% it will hit), rest 40% keep tail SL.
-• After initial move, also book profit at EMAs, VWAP, Swings and move rest position at buy price. So they you always close in profit. If initial SL hit, then keep | move S BO / TL BO level to much stronger one, enter only on Strong CCC BO with insignificant wick for BO candle 
-• If TSL in 5 min is very large use 3 min | 5 EMA, whichever is reasonable TSL   
-• Never enter base on buying near SL, all entry much have Solid Green CCC. 
-• Even very aggressive entry there should be TL BO | solid candle close | swing high BO in lower TF like 3 min | 1 min. Never enter randomly 
-• Last 45 min expiry, technicals will fail, better avoid trading 
-• First Open 45 min trade should be based on 5~ 15 min ORB, Previous Day High / Low, SGX / GIFT Nifty TL BO. There should be swing available to trade normally
-• BO Failure >>> Next candle falls back into Swing BO line | TL
-• Enter after BO, Exit at Nearest Target, wait for next candle close, if CCC above the RS zone, then rebuy, ignore wick BO.
-• On strong trending day 15 min & 60 min RSI >60 | <40, counter trade only 15 min Swing BO and CCC
-• 20 & 50 EMAs can give additional concurrence on BO
-  
-
-• Entry - Trend HTHB LTLB Reversal 
-	• TL BO CCC + RS Zone + Double T/B 
-	• Last Swing Higher Low / Lower High BO CCC, if Swing is Clear and Deep
-	• Select stronger TL are with deeper swings and farther ones, 3 touch point are the best TLs. Adjust TL in 3 min |  5 min not to cut Candle body.
-	• Ignore Steep TL - momentum is strong >>> Swing BO is better than TL BO
-	• Ignore Horizontal TL – >2x Swing Highs or Lows are too close, consider it as consolidation >>> Range Box BO CCC – High and Low of the Range
-	• If no TL | Swing available then use 5 min Price aligned to 5 & 21 EMA as reversal
-	
-• Entry RS Zone | TL – Reversal
-	• Failed BO – Next Bar falls back into RS Zone / TL after BO CCC 
-	• TL BO + Double Top | Bottom at RS Zone 
-	• Bullish / Bearish Pin Bar | Morning / Evening Start - Reversal Candle pattern at RS Zone + Failed BO | Double T/B  
-	
-• Entry - Very Aggressive Trend continuation – TSL | Solid Green candle low not broken & No nearby RS Zone
-	• Lower time frame TL BO
-	• BO LTF CCC above recent High | Range of candles 
-	
-• Entry - Aggressive Trend continuation pattern not broken, refer below 'What is Trend Continuation' (Below is defined for Bulls apply for Bears similarly)
-	• 1x  ~ 3x Green CCC above Solid Red candle High
-	• Engulf Candle pattern - Green CCC above highest of either Solid Rend Candle High | Failed wick high, if no swing is available 
-	• In case of False BO | Double T/B + RS zone – even solid close above / below 5 EMA is sufficient
-	• Trend Continuation Candle pattern –  Morning / Evening Start
-	• Hammer | Shooting Start are not sufficient –, they just indicator, only a solid candle CC is needed for entry. 
-	• A lower Swing high available after recent Higher High Swing & TL is too step to draw >>> CCC above lower Swing high
-	• When two Swings available refer TL BO under  'Trend HTHB LTLB Reversal' 
-	
-• What is Trend continuation ? 
-	• Last Swing Higher Low before Higher High / Last Lower High before Lower Low is not broken 
-	• No Reversal for HTHB to LTLB | LTBL to HTHB - there should be two Highs and two Lows to confirm the trend – Bulls or Bears 
-	
-• How to draw Resistance | Support zone (RS Zone) - 15 min | 1 hr – both in Sport & Future 
-	• Where reversal of HTHB to LTLB | LTBL to HTHB - there should be two Highs and two Lows to confirm the trend – Bulls or Bears 
-	• Gap Open High | Low only if it not broken for the day
-	• Gap fill previous day High / Low
-	• Previous Day | Current Day - High / Low
-	• Previous Day Close
-	• VWAPs for intraday
-	• Central Pivotal Range (CPR) esp. virgin CPR
-	• 15 min Open Range – only if price is not broken either side
-	• 100s esp. Near expiry
-	
-• Book Profit & Stoploss – 
-	• Initial Stoploss - Swing Low | Breakout solid candle Low / N-1 low – 7~10%
-	• Trail Stop loss - 5 ~ 8% - Solid Candle low | Swing Low | Previous candle 5 EMA in 3 | 5 min | 78.6% | 61.2% ~  in Fibonacci – Swing low to Swing high.
-	• Book Profit – Always wait for Strong RS Zone (ref above) to hit either in Spot | Future – Max value when price troches RS Zone for the first time
-
+ 
+ 
+	•	Both Sport and Option chart to concur BO >> 3 min (Strong Trending) | 5 min (Low Trending) Strong Solid CCC without significant wick for every entry
+	•	Larger Trend side entry: TL BO | Swing BO – Progressively adjust higher high | lower low wick, TL can be drawn using lower TF, but 5 min CCC is must for every entry
+	•	Trend side Re-entry – Solid Candle Engulf + HTHB | LTBL + <50% Swing retracement, use TL BO | S BO in case of >50% Swing retracement.
+	•	Counter Trend: Swing BO as TL BO bound to fail
+ 
+	•	Both Sport and Option chart to concur the move
+	•	All entry much be either TL BO | S BO | Solid candle engulf On Trend side (HTHB|LTLB) +  Swing retracement should not be more than 50, if more than >50% TL / S BO is must.
+	•	Candle Pattern for BO Entry >>> only when strong Solid close higher with insignificant wick, Avoid if >40% Candle Wick as it is weak and bound to make false BO
+	•	BO & Re-Entry >>> Progressively move BO level of Swing H/L | TL - Higher and Higher | Lower and Lower on every failed Wick | Swing, unless a strong CCC in 5 min as specified above. If no clear swings in 5 min, then to find clear Swing H/L, Trend Line you can use 3 min | 1 min chart but BO much be confirmed in 5 min chart
+	•	Hanging man | Hammer | Solid candle with out engulf not sufficient
+	•	Option price is in sync with Future, real buying or selling happens in Options | Futures, so BO need to be confirmed in these charts esp. Option Chart.
+	•	5 min chart is most reliable than small TF like 1 min | 3 min
+	•	5 min BO & Candle Pattern & Solid Candle Close Confirmation (CCC) is very very important for all Entry
+	•	Option chart - After large move completes and once red candle appears, never ever re-enter unless a solid green candle with above conditions satisfies
+	•	Entry based on Solid CCC & Engulf pattern only when trend is supporting i.e. HTHB | LTLB.
+	•	Reversal >>> need stronger confirmation, a clear TL BO | Swing BO esp. in 5 min is must, Solid CCC & Engulf pattern is not sufficient.
+	•	Always check HTHB | LTLB pattern + Candle pattern – Solid Candle | Wick size + TL / RS zone
+	•	Draw TL if there is Swing available in 3 min and above TFs, do not use 1 min | 2 min to draw TL
+	•	A Fake BO, will BO without any retracement at RS zone | TL, if next candle falls back then it is fake BO
+	•	When significant profit is there, then 60% Partially exit previous swing high (95% it will hit), rest 40% keep tail SL.
+	•	After initial move, also book profit at EMAs, VWAP, Swings and move rest position at buy price. So they you always close in profit. If initial SL hit, then keep | move S BO / TL BO level to much stronger one, enter only on Strong CCC BO with insignificant wick for BO candle
+	•	If TSL in 5 min is very large use 3 min | 5 EMA, whichever is reasonable TSL  
+	•	Never enter base on buying near SL, all entry much have Solid Green CCC.
+	•	Even very aggressive entry there should be TL BO | solid candle close | swing high BO in lower TF like 3 min | 1 min. Never enter randomly
+	•	Last 45 min expiry, technicals will fail, better avoid trading
+	•	First Open 45 min trade should be based on 5~ 15 min ORB, Previous Day High / Low, SGX / GIFT Nifty TL BO. There should be swing available to trade normally
+	•	BO Failure >>> Next candle falls back into Swing BO line | TL
+	•	Enter after BO, Exit at Nearest Target, wait for next candle close, if CCC above the RS zone, then rebuy, ignore wick BO.
+	•	On strong trending day 15 min & 60 min RSI >60 | <40, counter trade only 15 min Swing BO and CCC
+	•	20 & 50 EMAs can give additional concurrence on BO
+ 
+ 
+	•	Entry - Trend HTHB LTLB Reversal
+	•	TL BO CCC + RS Zone + Double T/B
+	•	Last Swing Higher Low / Lower High BO CCC, if Swing is Clear and Deep
+	•	Select stronger TL are with deeper swings and farther ones, 3 touch point are the best TLs. Adjust TL in 3 min |  5 min not to cut Candle body.
+	•	Ignore Steep TL - momentum is strong >>> Swing BO is better than TL BO
+	•	Ignore Horizontal TL – >2x Swing Highs or Lows are too close, consider it as consolidation >>> Range Box BO CCC – High and Low of the Range
+	•	If no TL | Swing available then use 5 min Price aligned to 5 & 21 EMA as reversal
+ 
+	•	Entry RS Zone | TL – Reversal
+	•	Failed BO – Next Bar falls back into RS Zone / TL after BO CCC
+	•	TL BO + Double Top | Bottom at RS Zone
+	•	Bullish / Bearish Pin Bar | Morning / Evening Start - Reversal Candle pattern at RS Zone + Failed BO | Double T/B 
+ 
+	•	Entry - Very Aggressive Trend continuation – TSL | Solid Green candle low not broken & No nearby RS Zone
+	•	Lower time frame TL BO
+	•	BO LTF CCC above recent High | Range of candles
+ 
+	•	Entry - Aggressive Trend continuation pattern not broken, refer below 'What is Trend Continuation' (Below is defined for Bulls apply for Bears similarly)
+	•	1x  ~ 3x Green CCC above Solid Red candle High
+	•	Engulf Candle pattern - Green CCC above highest of either Solid Rend Candle High | Failed wick high, if no swing is available
+	•	In case of False BO | Double T/B + RS zone – even solid close above / below 5 EMA is sufficient
+	•	Trend Continuation Candle pattern –  Morning / Evening Start
+	•	Hammer | Shooting Start are not sufficient –, they just indicator, only a solid candle CC is needed for entry.
+	•	A lower Swing high available after recent Higher High Swing & TL is too step to draw >>> CCC above lower Swing high
+	•	When two Swings available refer TL BO under  'Trend HTHB LTLB Reversal'
+ 
+	•	What is Trend continuation ?
+	•	Last Swing Higher Low before Higher High / Last Lower High before Lower Low is not broken
+	•	No Reversal for HTHB to LTLB | LTBL to HTHB - there should be two Highs and two Lows to confirm the trend – Bulls or Bears
+ 
+	•	How to draw Resistance | Support zone (RS Zone) - 15 min | 1 hr – both in Sport & Future
+	•	Where reversal of HTHB to LTLB | LTBL to HTHB - there should be two Highs and two Lows to confirm the trend – Bulls or Bears
+	•	Gap Open High | Low only if it not broken for the day
+	•	Gap fill previous day High / Low
+	•	Previous Day | Current Day - High / Low
+	•	Previous Day Close
+	•	VWAPs for intraday
+	•	Central Pivotal Range (CPR) esp. virgin CPR
+	•	15 min Open Range – only if price is not broken either side
+	•	100s esp. Near expiry
+ 
+	•	Book Profit & Stoploss –
+	•	Initial Stoploss - Swing Low | Breakout solid candle Low / N-1 low – 7~10%
+	•	Trail Stop loss - 5 ~ 8% - Solid Candle low | Swing Low | Previous candle 5 EMA in 3 | 5 min | 78.6% | 61.2% ~  in Fibonacci – Swing low to Swing high.
+	•	Book Profit – Always wait for Strong RS Zone (ref above) to hit either in Spot | Future – Max value when price troches RS Zone for the first time
+ 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-	
-	
-	
-		○ No Swing available after new High / Low >>> CCC above the high / low of opposite side Sold candle through Engulf | Bullish / Bearish – Pin Bar | Morning / Evening Star
-		○ Failed wick – CCC close above the high 
-		
-
+ 
+ 
+ 
+	•	No Swing available after new High / Low >>> CCC above the high / low of opposite side Sold candle through Engulf | Bullish / Bearish – Pin Bar | Morning / Evening Star
+	•	Failed wick – CCC close above the high
+ 
+ 
 All Trade 3 min | 5 min only, below defined for Options, same apply for Sport, buy only Both option and Sport concurs:
-	• Reversal at important – RS zone | Fake BO Reversal | Strong Re-Entry & Swing H/L & Trend HTHB / LTLB is not broken >>> Green Solid candle Engulf & Green CCC in 3 min above 5 min Red Solid Candle High + 5 EMA in 3 min + TL BO CCC (added advantage, but optional). 5 min is very reliable to entry early we use 3 min, but confirmation need to be checked in 5 min 
-	• If TSL not hit, Small consolidation during strong move >>> Buy SL order open above high of range of candle
-	• Swing H/L broken >>> TL BO CCC entry is best, in case of clear swings available | CCC above/ below Swing high / low, in case no TL is available + RS Zone concurrence  | Buy CCC above / below range of candles during consolidation 
-	• Trailing Stoploss (TSL) - Initially >>> Swing low, Once momentum starts >>> Solid candle low | elevated levels - 5 EMA in 3 min of Last Green candle which closes above previous candle high / close. Do Not keep SL more than 8~10% of buy price | current price
-	• Check Reversal patter for false BO -  Morning / Evening Star | Bullish / Bearish Pin Bar | Engulfs 
-	• Always check wicks | solid bars for weakness / strength of the move 
-	• Exit all position as soon Option price closes below 5 EMA of N-1 | N-2 candle.
-	• Never every buy option without a Green + CCC and without above rules
-	• Do not change chart TF from 3 min, to avoid confusion and to take better decision, change only to draw TL between 5 min and 3 min to confirm TL does not cut candle body 
-	• TL connecting deeper swing lows and TL connecting 3x swings is more reliable then nearby shallow | 2x  swings
-	• Expiry day 100s provide RS due to OI build up 
-
-
-	• Reversal Trend Line BO, Against 15 min (Higher) TF Trend :
-		○ If RSI 40 ~ 60 in 15 min | 1 hr >> Double Bottom + 15 min divergence + TL BO 
-		○ Extreme RSI <25 | >75 – Pin Bar | Morning / Evening Star  + TL BO
-	• Trend Reversal in 3 | 5 min, but aligned with 15 min (Higher) TF Trend 
-		○ TL BO – Angel 25 ~ 50
-	• Trend Continuation –  not broken Swing low in 3 / 5 min | >50% large Swing |  Solid candle >50% XL / 3x L | 20 EMA 
-		○ Pin Bar | Morning / Evening Star 
-		○ Solid Red Candle Engulf 
-		○ 1 min Trend TL BO 
-		○ >61 retrace from Swing low, if swing is large
-		○ Range BO if TL is Angel <25
-	• No Target | TSL Only – 3 min 5 EMA of previous candle which is solid green and closes above previous candle on closing basis 
-	• Initial SL – do not change unless a momentum start with higher high CCC
-		○ Swing Low 
-		○ Breakout solid candle Low | N-1 low
-
-	• 15 min ORB is not be mixed with 15 min EMAs crossovers, but if aligned they will have stronger move 
-	• 15 min ORB, early 5 EMA cross over 15 EMA can be used
-	• GIFT Nifty 15 min crossover give early signal.  
-	• Keep SL lowest of low | highest of high either in 3 min | 5 min esp. In consolidation 
-	• BO out also confirm both in 3 & 5 min 
-	• TL Connecting clear 5 min swings will give much reliable TL and TL BO 
-	• Reversal will happen when clear 5 min TL BO with clear RS zone or RS TL, TL Connecting 3 Swing is best to consider, Reversal 15 min RSI between 40 ~ 60 
-	• Keep 1% SL buffer, or check Swing lows in 1 min
-	• Never enter near target 
-	• Resistance / Support – 20, 50, 200 EMAs in 15m, 1hr 
-	• Trend side - Price aligned with 21 & 50 EMA, keep higher targets in trend side and all counter trend either do not trade or exit early at the nearest RS zone, as price will continue tend side ferociously. 
-	• Never ever enter with out TL BO or RS BO, all other entries fail, even trend side 
-	• 
-	• 1) 3 mins TF 50 > 200 EMA
-	• 2) Support Zone
-	• 3) Double Bottom Bounce OR Fake Break Down Confirmation
-	• 4) TL BO
-	• If Double Bottom Candle is very strong, then you don't need to wait for TL BO also Fake Breakdown is more powerful than Double Bottom
-	• 
-	• 
-	• How to draw RS zone - 
-	• 15 min check the recent swing high or low and Gaps and adjust zone beyond that. But give priority to recent & clear swing H/L  first and adjust the rest 
-	• Here swing mean a clear break of previous swing  Low or high on closing basis in 15 min not wicks 
-• 
-• TL BO - only a clear Swings in 5 min only and TL should be counter trend side, not trend side. If there is not two swings to draw a trend line in 5 min just ignore it, for TL BO only you can use 3 min not to draw TL (always use 5 min) don’t enter base on swings high low esp near RS zone there should be sufficient gap to the RS zone, on strong momentum when RS is far away then consolidation zone BO can be useful
-• 
-• Enter on BO & exit on important RS zone in Spot | Future | Option | wait for SL to hit 
-• 
-• Keep reasonable SL - neither too near nor too far. Around  10 to 15% of option price 
-• 
-• 
-• Reversal eminent if RSI >80 & <20 in 15 & 5 min 
-• 
-• Entry only when TL beak or RS zone break, no other entry 
-• 
-• A clear 5 min TL Break give good move even when RS zone is near, it may even break RS zone 
-• 
-• Never ever counter trade when RSI is outside 40 - 60
-• 
-	• SL should be min previous candle low not current candle low 
-• 
-• When RS is broken check if next candle does not engulf back beyond BO candle H/L and nullify the BO
-• 
-• Draw clear TL & RS zone, RS zone - 1 hr swings are stronger, on strong momentum esp 1 hr & 15 min RSI below 40 or above 60 then stronger move will happen, in that case use 1 hr swings as primary RS. You can consider 15 swings only when momentum is weak (to be back tested this) - 15 min RSI strong momentum and 1 hr in neutral momentum. Recent swing have high weightage and  gaps also (recent one is highest one). Never trade against the trend if momentum is very strong that is both 15 min & 1 hr RSI > 60 | < 40 
-• 
-• There will be always a support & resistance & stop-loss in Spot / Future / Option chart, always wait for market to achieve the target or hit SL
-• 
-• When there is not history on the left of option chart, target can be projected by extending TL connecting previous high, option target not only TL connecting lower top swing highs, it can be TL connecting higher high swings 
-• 
-• Reversal is eminent if RSI is <20 | >80 in 15min | 60 min, but wait for TL BO & DB | DT confirmation, by that time 15 min RSI can come to neutral range
-• Never trade reversal if RSI in 15 min & 60 min <40(42) & >60(58), be ready for reversal if RSI is <20 | >80 
-• Do not exit approximately check sport, future & option RS zone  
-• We can draw trend line using 1 min also, but TL BO is best in 5 min, if RS zone support reversal then use 3 min TL BO. 
-• But 1 min TL BO fails unless the momentum is very strong and TSL is not broken
-• Do not cancel or increase SL, if TL is broken then it means it’s failed 
-• Tailing Stoploss – keep previous candle 5 ema in 3 min once momentum starts,  before momentum keep swing low or solid candle low, momentum mean, price is not closed below close below 5 ema
-• If stoploss hit wait for break out never by orbitally 
-• Counter trend trade should be either 
-	• Oversold or Overbought RSI <20 & >80 in 15 & 60 min + Trend line break 
-	• double bottom and trend line break  if RSI between 40 ~ 60 range in 15 min 
-• Large trend side – Trend line breakout is sufficient, 
-• During trend move even solid engulf, morning or evening start or pin candle is sufficient 
-
-• Entry Conditions:  
-	• First 45 min ORB trade base on GIFT Nifty (continues chart than Nifty) Trend Line (TL) Break Out (BO) & Trailing Stoploss (TSL) close position once previous candle low or high is broken in Spot or Option - 3 min | 5 min, better avoid first 5 min ~ 10 min to avoid violent moves
-	• Consolidation in the last 1 hour of Previous day, Enter if TL BO in next day
-	• All entry must have non steep TL BO | Swing BO confirmation 
-	• A clear TL connecting Swings in 3 | 5 min and non-steep <45 degree will give good move 
-	• If multiple solid Red / Green candles and TL just connecting only Candle wicks | Candle Close (without swings) | Swings in 1 min | Steep TL >> this TL BO may not give good move or may even give false BO
-	• Do not enter if target is near | already achieved, unless clear BO
-	• Check both Spot and Future for Entry and Targets 
-	• 5 min TL & TL BO is more reliable than 3 min | 1 min 
-	• A fall from higher | raise from lower low bound to pull back, do not enter during TL BO for this case enter during pull back
-	• TL BO entry only from lower high or higher low   
-
+	•	Reversal at important – RS zone | Fake BO Reversal | Strong Re-Entry & Swing H/L & Trend HTHB / LTLB is not broken >>> Green Solid candle Engulf & Green CCC in 3 min above 5 min Red Solid Candle High + 5 EMA in 3 min + TL BO CCC (added advantage, but optional). 5 min is very reliable to entry early we use 3 min, but confirmation need to be checked in 5 min
+	•	If TSL not hit, Small consolidation during strong move >>> Buy SL order open above high of range of candle
+	•	Swing H/L broken >>> TL BO CCC entry is best, in case of clear swings available | CCC above/ below Swing high / low, in case no TL is available + RS Zone concurrence  | Buy CCC above / below range of candles during consolidation
+	•	Trailing Stoploss (TSL) - Initially >>> Swing low, Once momentum starts >>> Solid candle low | elevated levels - 5 EMA in 3 min of Last Green candle which closes above previous candle high / close. Do Not keep SL more than 8~10% of buy price | current price
+	•	Check Reversal patter for false BO -  Morning / Evening Star | Bullish / Bearish Pin Bar | Engulfs
+	•	Always check wicks | solid bars for weakness / strength of the move
+	•	Exit all position as soon Option price closes below 5 EMA of N-1 | N-2 candle.
+	•	Never every buy option without a Green + CCC and without above rules
+	•	Do not change chart TF from 3 min, to avoid confusion and to take better decision, change only to draw TL between 5 min and 3 min to confirm TL does not cut candle body
+	•	TL connecting deeper swing lows and TL connecting 3x swings is more reliable then nearby shallow | 2x  swings
+	•	Expiry day 100s provide RS due to OI build up
+ 
+ 
+	•	Reversal Trend Line BO, Against 15 min (Higher) TF Trend :
+	•	If RSI 40 ~ 60 in 15 min | 1 hr >> Double Bottom + 15 min divergence + TL BO
+	•	Extreme RSI <25 | >75 – Pin Bar | Morning / Evening Star  + TL BO
+	•	Trend Reversal in 3 | 5 min, but aligned with 15 min (Higher) TF Trend
+	•	TL BO – Angel 25 ~ 50
+	•	Trend Continuation –  not broken Swing low in 3 / 5 min | >50% large Swing |  Solid candle >50% XL / 3x L | 20 EMA
+	•	Pin Bar | Morning / Evening Star
+	•	Solid Red Candle Engulf
+	•	1 min Trend TL BO
+	•	>61 retrace from Swing low, if swing is large
+	•	Range BO if TL is Angel <25
+	•	No Target | TSL Only – 3 min 5 EMA of previous candle which is solid green and closes above previous candle on closing basis
+	•	Initial SL – do not change unless a momentum start with higher high CCC
+	•	Swing Low
+	•	Breakout solid candle Low | N-1 low
+ 
+	•	15 min ORB is not be mixed with 15 min EMAs crossovers, but if aligned they will have stronger move
+	•	15 min ORB, early 5 EMA cross over 15 EMA can be used
+	•	GIFT Nifty 15 min crossover give early signal. 
+	•	Keep SL lowest of low | highest of high either in 3 min | 5 min esp. In consolidation
+	•	BO out also confirm both in 3 & 5 min
+	•	TL Connecting clear 5 min swings will give much reliable TL and TL BO
+	•	Reversal will happen when clear 5 min TL BO with clear RS zone or RS TL, TL Connecting 3 Swing is best to consider, Reversal 15 min RSI between 40 ~ 60
+	•	Keep 1% SL buffer, or check Swing lows in 1 min
+	•	Never enter near target
+	•	Resistance / Support – 20, 50, 200 EMAs in 15m, 1hr
+	•	Trend side - Price aligned with 21 & 50 EMA, keep higher targets in trend side and all counter trend either do not trade or exit early at the nearest RS zone, as price will continue tend side ferociously.
+	•	Never ever enter with out TL BO or RS BO, all other entries fail, even trend side
+	•	 
+	•	1) 3 mins TF 50 > 200 EMA
+	•	2) Support Zone
+	•	3) Double Bottom Bounce OR Fake Break Down Confirmation
+	•	4) TL BO
+	•	If Double Bottom Candle is very strong, then you don't need to wait for TL BO also Fake Breakdown is more powerful than Double Bottom
+	•	 
+	•	 
+	•	How to draw RS zone -
+	•	15 min check the recent swing high or low and Gaps and adjust zone beyond that. But give priority to recent & clear swing H/L  first and adjust the rest
+	•	Here swing mean a clear break of previous swing  Low or high on closing basis in 15 min not wicks
+	•	 
+	•	TL BO - only a clear Swings in 5 min only and TL should be counter trend side, not trend side. If there is not two swings to draw a trend line in 5 min just ignore it, for TL BO only you can use 3 min not to draw TL (always use 5 min) don’t enter base on swings high low esp near RS zone there should be sufficient gap to the RS zone, on strong momentum when RS is far away then consolidation zone BO can be useful
+	•	 
+	•	Enter on BO & exit on important RS zone in Spot | Future | Option | wait for SL to hit
+	•	 
+	•	Keep reasonable SL - neither too near nor too far. Around  10 to 15% of option price
+	•	 
+	•	 
+	•	Reversal eminent if RSI >80 & <20 in 15 & 5 min
+	•	 
+	•	Entry only when TL beak or RS zone break, no other entry
+	•	 
+	•	A clear 5 min TL Break give good move even when RS zone is near, it may even break RS zone
+	•	 
+	•	Never ever counter trade when RSI is outside 40 - 60
+	•	 
+	•	SL should be min previous candle low not current candle low
+	•	 
+	•	When RS is broken check if next candle does not engulf back beyond BO candle H/L and nullify the BO
+	•	 
+	•	Draw clear TL & RS zone, RS zone - 1 hr swings are stronger, on strong momentum esp 1 hr & 15 min RSI below 40 or above 60 then stronger move will happen, in that case use 1 hr swings as primary RS. You can consider 15 swings only when momentum is weak (to be back tested this) - 15 min RSI strong momentum and 1 hr in neutral momentum. Recent swing have high weightage and  gaps also (recent one is highest one). Never trade against the trend if momentum is very strong that is both 15 min & 1 hr RSI > 60 | < 40
+	•	 
+	•	There will be always a support & resistance & stop-loss in Spot / Future / Option chart, always wait for market to achieve the target or hit SL
+	•	 
+	•	When there is not history on the left of option chart, target can be projected by extending TL connecting previous high, option target not only TL connecting lower top swing highs, it can be TL connecting higher high swings
+	•	 
+	•	Reversal is eminent if RSI is <20 | >80 in 15min | 60 min, but wait for TL BO & DB | DT confirmation, by that time 15 min RSI can come to neutral range
+	•	Never trade reversal if RSI in 15 min & 60 min <40(42) & >60(58), be ready for reversal if RSI is <20 | >80
+	•	Do not exit approximately check sport, future & option RS zone 
+	•	We can draw trend line using 1 min also, but TL BO is best in 5 min, if RS zone support reversal then use 3 min TL BO.
+	•	But 1 min TL BO fails unless the momentum is very strong and TSL is not broken
+	•	Do not cancel or increase SL, if TL is broken then it means it’s failed
+	•	Tailing Stoploss – keep previous candle 5 ema in 3 min once momentum starts,  before momentum keep swing low or solid candle low, momentum mean, price is not closed below close below 5 ema
+	•	If stoploss hit wait for break out never by orbitally
+	•	Counter trend trade should be either
+	•	Oversold or Overbought RSI <20 & >80 in 15 & 60 min + Trend line break
+	•	double bottom and trend line break  if RSI between 40 ~ 60 range in 15 min
+	•	Large trend side – Trend line breakout is sufficient,
+	•	During trend move even solid engulf, morning or evening start or pin candle is sufficient
+ 
+	•	Entry Conditions: 
+	•	First 45 min ORB trade base on GIFT Nifty (continues chart than Nifty) Trend Line (TL) Break Out (BO) & Trailing Stoploss (TSL) close position once previous candle low or high is broken in Spot or Option - 3 min | 5 min, better avoid first 5 min ~ 10 min to avoid violent moves
+	•	Consolidation in the last 1 hour of Previous day, Enter if TL BO in next day
+	•	All entry must have non steep TL BO | Swing BO confirmation
+	•	A clear TL connecting Swings in 3 | 5 min and non-steep <45 degree will give good move
+	•	If multiple solid Red / Green candles and TL just connecting only Candle wicks | Candle Close (without swings) | Swings in 1 min | Steep TL >> this TL BO may not give good move or may even give false BO
+	•	Do not enter if target is near | already achieved, unless clear BO
+	•	Check both Spot and Future for Entry and Targets
+	•	5 min TL & TL BO is more reliable than 3 min | 1 min
+	•	A fall from higher | raise from lower low bound to pull back, do not enter during TL BO for this case enter during pull back
+	•	TL BO entry only from lower high or higher low  
+ 
 Reversal Conditions – Sport & Option Chart:
-	• Sport – 5 min Candle Close Confirmation beyond 5 min N-2 | 15 min N-1 Swing Higher lower | Lower Top, Do NOT use TL BO as it is confusing and bound to fail 
-	• 15 min RSI divergence + Double Top | Bottom (not far away) near important RS Zone | TL + Swing BO (5 min N-2 | 15 min N-1) is already confirmed 
-	• BO High | Low of Previous Day | Current Day | 15 min Open Candle 
-	• If no 15 min TL | Swing available then 5 min Price aligned to 5 & 21 EMA
-	•  Swing based confirmation Best and proven method, this is identified after several failures and Double Bottom | Top is essential so expect pull back to initial price levels after initial Swing BO confirmation 
-	• HTHB | LTLB - 2x Swing also confirm reversals
-
- Re-Entry Aggressive – Trailing SL | Swing Not broken: 
-	• Aggressive Re-Enter using 1 min - horizontal Rectangular BO | Angular TL BO provided there is Support zone in 1 min, provided prices does not break Trailing SL like Solid candle low | retrace >50% of recent Swing low to Swing High and there is no multiple red candles, all other case use 3 min | 5 min TL BO
-	• Solid Green candle engulf above Solid Red candle in 3 | 5 min and there is no multiple Solid Red candles 
-
+	•	Sport – 5 min Candle Close Confirmation beyond 5 min N-2 | 15 min N-1 Swing Higher lower | Lower Top, Do NOT use TL BO as it is confusing and bound to fail
+	•	15 min RSI divergence + Double Top | Bottom (not far away) near important RS Zone | TL + Swing BO (5 min N-2 | 15 min N-1) is already confirmed
+	•	BO High | Low of Previous Day | Current Day | 15 min Open Candle
+	•	If no 15 min TL | Swing available then 5 min Price aligned to 5 & 21 EMA
+	•	 Swing based confirmation Best and proven method, this is identified after several failures and Double Bottom | Top is essential so expect pull back to initial price levels after initial Swing BO confirmation
+	•	HTHB | LTLB - 2x Swing also confirm reversals
+ 
+ Re-Entry Aggressive – Trailing SL | Swing Not broken:
+	•	Aggressive Re-Enter using 1 min - horizontal Rectangular BO | Angular TL BO provided there is Support zone in 1 min, provided prices does not break Trailing SL like Solid candle low | retrace >50% of recent Swing low to Swing High and there is no multiple red candles, all other case use 3 min | 5 min TL BO
+	•	Solid Green candle engulf above Solid Red candle in 3 | 5 min and there is no multiple Solid Red candles
+ 
 Re-Entry - TSL & Swing broken, but Direction not violated in 15 min
-	• No Swing available Previous candle low is broken, but No lower low | Consolidates in a range >> then Solid Green Engulf CCC above recent High | High above failed wick | Range of Candle Trend Line BO CCC
-	• No Swing available and Multiple Solid red candle closes lower and lower >> Enter once >61% retracement CCC from the low 
-	• Two Swing available, but first one is too steep then don’t use TL | Only one Swing is available >> Enter once Price crosses & closes above recent Swing high with CCC in 3 min | 5 min (preferred) 
-	• Two or more Swing available, No Swing is too steep (<50 degree) to each other, then draw TL using 5 min & 3 min Swings does not cut candle body with maximum touch point to swings and nearby candles - close and wicks >> Enter once Price crosses & closes above TL in 3 min candle close confirmation (CCC). It will be good have 3 swings (non is too steep) for better TL, Keep SL lowest of Lows of Entry Candle | N-1 Entry candle | Swing low | Below extended Trend line after BO
-	• High Probability - Combine DB/DT with Trend...In downtrend try DT | In uptrend try DB + Just 5 min divergence is sufficient, Double Bottom | Top, there should be strong TL | RS Zone | near and above 15 min 50 / 200 EMA not in between | not too away | not BO >> Enter once TL is BO as said above
-	• Note: Initial RS | TL BO candle close can be used as stoploss point for re-entry 
-	• Entry  on clear TL by connection swings will give good move than TL connection wicks or not clear swings
-
-Option - Initial stoploss & Partial booking targets (50%) 
-	• Initial SL - Entry Breakout (BO) candle low | Previous candle of Entry BO candle low
-	• Initial Targets - 5 min Option chart – Book 50% at Initial Target say 50EMA, VWAP(Century), VWAP 200 EMA using Limit Order, reversal trade initial target 50 EMA, if above 50 EMA then target 200 EMA
-	• Remaining position keep trailing stoploss or entry price (not to get into loss) 
-Option – Trailing stoploss (50%)  for ultimate Targets
-	• On non-aggressive move 5 min | 3 min chart - Swing lows 
-	• On Aggressive Wave C move -  Previous 5 min | 3 min - Solid Candle low, do not keep SL below Red Candle low unless it is swing low /  Red candle close below 5 EMA in 5 min | 3 min
-	• Keep Trailing Stoploss if you are not able to view the market (may be meeting or sleeping) 
-	• Watch 1 min for green solid candle, 1 or 2 red small candle accepted, otherwise close it if it is near resistance, never close position in the strong momentum. 
+	•	No Swing available Previous candle low is broken, but No lower low | Consolidates in a range >> then Solid Green Engulf CCC above recent High | High above failed wick | Range of Candle Trend Line BO CCC
+	•	No Swing available and Multiple Solid red candle closes lower and lower >> Enter once >61% retracement CCC from the low
+	•	Two Swing available, but first one is too steep then don’t use TL | Only one Swing is available >> Enter once Price crosses & closes above recent Swing high with CCC in 3 min | 5 min (preferred)
+	•	Two or more Swing available, No Swing is too steep (<50 degree) to each other, then draw TL using 5 min & 3 min Swings does not cut candle body with maximum touch point to swings and nearby candles - close and wicks >> Enter once Price crosses & closes above TL in 3 min candle close confirmation (CCC). It will be good have 3 swings (non is too steep) for better TL, Keep SL lowest of Lows of Entry Candle | N-1 Entry candle | Swing low | Below extended Trend line after BO
+	•	High Probability - Combine DB/DT with Trend...In downtrend try DT | In uptrend try DB + Just 5 min divergence is sufficient, Double Bottom | Top, there should be strong TL | RS Zone | near and above 15 min 50 / 200 EMA not in between | not too away | not BO >> Enter once TL is BO as said above
+	•	Note: Initial RS | TL BO candle close can be used as stoploss point for re-entry
+	•	Entry  on clear TL by connection swings will give good move than TL connection wicks or not clear swings
+ 
+Option - Initial stoploss & Partial booking targets (50%)
+	•	Initial SL - Entry Breakout (BO) candle low | Previous candle of Entry BO candle low
+	•	Initial Targets - 5 min Option chart – Book 50% at Initial Target say 50EMA, VWAP(Century), VWAP 200 EMA using Limit Order, reversal trade initial target 50 EMA, if above 50 EMA then target 200 EMA
+	•	Remaining position keep trailing stoploss or entry price (not to get into loss)
+Option – Trailing stoploss (50%)  for ultimate Targets
+	•	On non-aggressive move 5 min | 3 min chart - Swing lows
+	•	On Aggressive Wave C move -  Previous 5 min | 3 min - Solid Candle low, do not keep SL below Red Candle low unless it is swing low /  Red candle close below 5 EMA in 5 min | 3 min
+	•	Keep Trailing Stoploss if you are not able to view the market (may be meeting or sleeping)
+	•	Watch 1 min for green solid candle, 1 or 2 red small candle accepted, otherwise close it if it is near resistance, never close position in the strong momentum.
 Option - Ultimate Targets:
-	• 15 min Option chart - Ultimate Target - Trend line | Resistance Zone, also keep watch for Wave C
-	• It will be fake BO if it  directly BO RS zone | TL  without price pull back. 
-	• A genuine BO will Pull back at RS | TL zone and cross & close above RS | TL zone
-	• Spot | Future - Trend Line & Swing - Resistance & Support in 15 min | 1 hour chart 
-
-Resistance & Support Zone 
-	• 15 min & 1 Hr - Draw rectangle covering many swings and congestion zones 
-	• Trend line (TL) - Draw line touching as much as possible swing Closing price, wick High & Lows (its ok if few places cut candles) 
-	• Trend line which previous provided support do act as resistance after they broke esp on pull back. This is effective when other RS zone also exist there 
-	• Previous Day High & Low 
-	• CPR – Central Pivotal Range, Virgin CPR
-	• RS zone - swings, gaps, consolidation zones 
-
+	•	15 min Option chart - Ultimate Target - Trend line | Resistance Zone, also keep watch for Wave C
+	•	It will be fake BO if it  directly BO RS zone | TL  without price pull back.
+	•	A genuine BO will Pull back at RS | TL zone and cross & close above RS | TL zone
+	•	Spot | Future - Trend Line & Swing - Resistance & Support in 15 min | 1 hour chart
+ 
+Resistance & Support Zone
+	•	15 min & 1 Hr - Draw rectangle covering many swings and congestion zones
+	•	Trend line (TL) - Draw line touching as much as possible swing Closing price, wick High & Lows (its ok if few places cut candles)
+	•	Trend line which previous provided support do act as resistance after they broke esp on pull back. This is effective when other RS zone also exist there
+	•	Previous Day High & Low
+	•	CPR – Central Pivotal Range, Virgin CPR
+	•	RS zone - swings, gaps, consolidation zones
+ 
 Correction:
-	• Simplex Pullback 
-	• Complex Pullback 
-	• 5 Wave Pullback – Ending diagonals
-	• Beyond that Ranged Consolidation   
-
+	•	Simplex Pullback
+	•	Complex Pullback
+	•	5 Wave Pullback – Ending diagonals
+	•	Beyond that Ranged Consolidation  
+ 
 NO Trade - Consolidation day - Spot price oscillate within:
-	• 30 min Open Range, if not broken (candle close) before 11 am this could be consolidation day 
-	• Previous Day Range
-	• Flat 5min 20 EMA
-	
+	•	30 min Open Range, if not broken (candle close) before 11 am this could be consolidation day
+	•	Previous Day Range
+	•	Flat 5min 20 EMA
+ 
 Risk Management:
-	• Do NOT lose more than 2% of your capital per day, 0.5% of capital risk per Trade
-	• Target 2% profit with risk is 1%
-	• Option buying 10% of Capital
-	• Do NOT trade first 15 min of open due to unpredictable violent moves as well as last 15 min due to limited movement 
-	• Stop trading (Freeze Trading A/C) for the rest of the day if 2 stoploss are hit, example each stoploss value Rs.3000, then max loss Rs.6000 for the day
-	• Limit the number of trades – 3 max 
-	• Do not lose more than 30% of the profit or more than 50% of profit if profit value is low 
-	• Index Option trading – only Intraday  
-	• if we don't do partial booking, we would be in panic mode always..
-	• Partial book and moving SL rest of the position to buy price will ensue we go negative and always close with min profit 
-
-Option - Open Interest:  
-	• Option OI Chart should support the move for further and immediate move – when prices moves up, Calls unwind and Puts add, vise-versa. If not there, then it will find Resistance or Support
-	• On Expiry day OI works very well as cheap contract create huge build up, so always try in the money contracts even on expiry
-	• Do not trade last 45 ~ 30 min of expiry 
-	
+	•	Do NOT lose more than 2% of your capital per day, 0.5% of capital risk per Trade
+	•	Target 2% profit with risk is 1%
+	•	Option buying 10% of Capital
+	•	Do NOT trade first 15 min of open due to unpredictable violent moves as well as last 15 min due to limited movement
+	•	Stop trading (Freeze Trading A/C) for the rest of the day if 2 stoploss are hit, example each stoploss value Rs.3000, then max loss Rs.6000 for the day
+	•	Limit the number of trades – 3 max
+	•	Do not lose more than 30% of the profit or more than 50% of profit if profit value is low
+	•	Index Option trading – only Intraday 
+	•	if we don't do partial booking, we would be in panic mode always..
+	•	Partial book and moving SL rest of the position to buy price will ensue we go negative and always close with min profit
+ 
+Option - Open Interest: 
+	•	Option OI Chart should support the move for further and immediate move – when prices moves up, Calls unwind and Puts add, vise-versa. If not there, then it will find Resistance or Support
+	•	On Expiry day OI works very well as cheap contract create huge build up, so always try in the money contracts even on expiry
+	•	Do not trade last 45 ~ 30 min of expiry
+ 
 Option Selling - Option Chart:
-	• Bought 24700 CE and Sold 24900 CE - this is called Bull Call Spread..
-	• 5 mins TF - 50 EMA < 200 EMA (so Option trend is down) and Double Top around 50 EMA with Bearish Divergence - Target next swing low
-	• 
-	• 
-
-
+	•	Bought 24700 CE and Sold 24900 CE - this is called Bull Call Spread..
+	•	5 mins TF - 50 EMA < 200 EMA (so Option trend is down) and Double Top around 50 EMA with Bearish Divergence - Target next swing low
+	•	 
+	•	￼
+ 
+ 
 TBD>>>--------------------------------------------------------------------------------------------------------------------------------
-Notes: Notes – completed till 21 Nov 2025 from Muruganatham chats 
-
-
-	• 7 tips for becoming a successful day trader - https://www.quora.com/What-are-some-tips-for-becoming-a-successful-day-trader/answer/Shraddha-Nanchahil
-	• My Worst Trade of 2023 - Option Buying 
-	
-	
-	• Spot chart for directions
-	• Option chart for refined entry and for target levels
-	• NO TL BO in OPTIONS,  NO TRADE
-	• OI vs Premium chart to see what kind of movement could be expected
-	• Downtrend, when small gap-up happens, and when price takes support of that open candle low and then it could be possible small up move
-	• 3 min | 5 min - Bullish Trend line break, Candle close above TL is must,  provided 50 EMA > 200 EMA
-	• 15 min & 5 min – Bullish RSI divergence (even if price is below 50 EMA) + Bullish engulf candle close above previous red candle | Hammer 
-	• Option price between 120 to 200+ (not beyond 250) give good move
-	• Counter trend beyond 5 min 200 EMA is not suggested unless reversal is confirmed in 15 min | 1 Hr   
-	• Option buying behave Elliot ABC corrective patter with wave C being ferocious up move, as majority  impulse move is down side!
-	• After initial Target, prices will correct, Try to catch the third Wave C once price break corrective trend lines & always keep Trailing SL to catch full move 
-	• TL / RS – breakout confirmation means 3 min | 5 min – candle close only not wicks 
-	• Expiry day reversal – after 1 pm – see 15 min TF divergence, enter once 5 min Trend line Breakout 
-	• Try 1 lot,  achieve 200 points profit  + 1 month has to pass – to confirm you can hold 200 points profit, then double the lot size, like this increase 
-	• Safe Trading – not  more than 3 trades in a day and not averaging 
-	• YES==>> Small Profit, Big Profit, Small Loss (Planned setups, Strict original SL level, Profit trailing, Target booking, Limiting the number of trades per day)
-	• NO==>> Big Loss (No risk management)
-	• NO==>> Bad Profit, Bad Loss (based on random entries)
-	• Spot chart is to decide which direction to trade and also to roughly find out when to trade, ultimate targets of overall move
-	• Option chart is for accurate entry and exit
-	• TL BO in either 4 hrs. (candle close confirmation) or Daily TF for buying options positionally
-	• Morning Star & Evening Star + Higher Low | Lower Top – indicate start of impulsive wave 
-	• Back test any strategy with 50 ~ 100 examples 
-	• VWAP Auto Anchor in Option Chart with Anchor Period as Century, this can be used as entry and target. Usually Option expiry at this point 
-	• If Target is not clear, then go for option selling in the favorable direction instead of option buying 
-	• Use VWAP Auto Anchor in Option Chart, With Anchor Period as Century
-	• The bounces from this VWAP are powerful, look for setup near this VWAP - it can be use for entry or target
-	
-• TL Or resistance is the main target / other EMAs and VWAPs are far partial bookings
-• during reversal trades, it is better to do partial booking because anytime price can reverse quickly
-• 1hr and 4hr are in momentum.so we should be very cautions in short trades against larger TF trend, as any dip will be used for buying chance for big players, hence market recovers quickly
-•  options buying only if 3 mins TF 50 EMA > 200 EMA..
-• reversal trade with 15 mins and 5 mins divergences
-• Support, resistance and major TL in 15 mins.... and small TLs in 5 mins
-• major TL means connecting price of 2 to 3 days
-• 5 mins TL is mainly for intraday swing
-• sometimes, SPOT will touch a resistance and starts coming down,, but that time if you look at options, you will see the divergences clearly
-• You need to know when to use what...spot is for trend identification, and booking targets and to decide when not to take long trades based on resistance zones..
-• when you know which direction to go, then look for setups in options and entry only when option chart gives go ahead
-•  option chart can also be used for targets
-•  Spot resistance is first parameter
-• Next Option chart divergence is must
-• If spot divergence is there then great, otherwise be cautious
-• 
-• Divergence – need to check in both swing high and lows for double Bottom | Top 
-
-• only if you stick to max of 2 trades in a day, you will follow these rules..otherwise mind will take control
-• 
-• Shift your focus FROM Amt of Money per Week TO % of accurate trades in a week
-•  That way, you can increase your winning rate...The moment, we go beyond 70% winning rate, then you will not have any fear of losing money
-•  then it becomes easy to increase the qty
-• here are people with 30 to 40% winning rate and still make money in long term, but it is very tough to have that kind of mental strength... Hence i prefer to keep decent winning rate rather than stressing on continues losses..
-• 
-• ALGO can make around 20 to 30% per year if option selling based...but if you need more than that then manual trading is must
-• try to excel in manual trading with mind control...then sky is the limit
-• 
-• You may use RSI TL BO or BD as additional confirmation for entry. Note that during entry, the RSI should have crossed above 40 for Bull and below 60 for Bear.
-• 4h | Day RSI >60 & <40 means stronger momentum, do not trade against it esp. Over night, Min 2H TL BO should be there for Overnight position, 4H | Day – TB BO is much better 
-• when the momentum is high use 5 EMA (for wave 3), if it is slow then 21 EMA is the trailing SL
-• Option price behave like Elliot corrective wave A-B-C, where wave C is impulsive with 5 waves. 
-• Gold - Weekly TF - Oct,2023 - TL BO - 7% Risk, but it has given over 100% return if we just followed 21 EMA candle close trailing
-• 
-•  shooting star at the top is dangerous, usually price takes resistance at 62 to 78% of shooting start and comes down again
-• if the shotting star top is broken out then bulls are back
-• i draw TL based on 5 mins, but try to decide based on 3 mins BO candle
-• Watch out Bank Nifty, Sensex, CNX Finance & Nifty Mid Select – these patterns can give clue even future movement to Nifty movement.
-• GIFT Nifty can give better price pattern and TL BO due to more continues price available esp. During morning trades 
-• Also Keep watching for CPR and Previous Day High and Low for support and resistance
-• Watchout for Double Bottom and RS Zones 
-• After BO or during movement, there might be consolidations, watch the price pattern in 1 min or 30 sec chart and enter when price BOs – TL | Rectangles.
-• Retracements may find support at 38.2% ~ 50% ~ 61.8% levels.
-• Dhan broker give both SL and Target Order
-• 
-	• Double Top & Double Bottom 
-		• Against the Trend Reversal Double Bottom - Regular  Bullish Divergence - Price making either Equal Low or making lower low, But RSI making Higher Low
-		• Trend Based Double Bottom - Opposite Divergence - Price making either Equal Low or higher low But RSI making Lower Low 
-		
-	 
-	• 
-	• Candle patter
-	
-
+Notes: Notes – completed till 21 Nov 2025 from Muruganatham chats
+ 
+ 
+	•	7 tips for becoming a successful day trader - https://www.quora.com/What-are-some-tips-for-becoming-a-successful-day-trader/answer/Shraddha-Nanchahil
+	•	My Worst Trade of 2023 - Option Buying
+ 
+￼
+	•	Spot chart for directions
+	•	Option chart for refined entry and for target levels
+	•	NO TL BO in OPTIONS,  NO TRADE
+	•	OI vs Premium chart to see what kind of movement could be expected
+	•	Downtrend, when small gap-up happens, and when price takes support of that open candle low and then it could be possible small up move
+	•	3 min | 5 min - Bullish Trend line break, Candle close above TL is must,  provided 50 EMA > 200 EMA
+	•	15 min & 5 min – Bullish RSI divergence (even if price is below 50 EMA) + Bullish engulf candle close above previous red candle | Hammer
+	•	Option price between 120 to 200+ (not beyond 250) give good move
+	•	Counter trend beyond 5 min 200 EMA is not suggested unless reversal is confirmed in 15 min | 1 Hr  
+	•	Option buying behave Elliot ABC corrective patter with wave C being ferocious up move, as majority  impulse move is down side!
+	•	After initial Target, prices will correct, Try to catch the third Wave C once price break corrective trend lines & always keep Trailing SL to catch full move
+	•	TL / RS – breakout confirmation means 3 min | 5 min – candle close only not wicks
+	•	Expiry day reversal – after 1 pm – see 15 min TF divergence, enter once 5 min Trend line Breakout
+	•	Try 1 lot,  achieve 200 points profit  + 1 month has to pass – to confirm you can hold 200 points profit, then double the lot size, like this increase
+	•	Safe Trading – not  more than 3 trades in a day and not averaging
+	•	YES==>> Small Profit, Big Profit, Small Loss (Planned setups, Strict original SL level, Profit trailing, Target booking, Limiting the number of trades per day)
+	•	NO==>> Big Loss (No risk management)
+	•	NO==>> Bad Profit, Bad Loss (based on random entries)
+	•	Spot chart is to decide which direction to trade and also to roughly find out when to trade, ultimate targets of overall move
+	•	Option chart is for accurate entry and exit
+	•	TL BO in either 4 hrs. (candle close confirmation) or Daily TF for buying options positionally
+	•	Morning Star & Evening Star + Higher Low | Lower Top – indicate start of impulsive wave
+	•	Back test any strategy with 50 ~ 100 examples
+	•	VWAP Auto Anchor in Option Chart with Anchor Period as Century, this can be used as entry and target. Usually Option expiry at this point
+	•	If Target is not clear, then go for option selling in the favorable direction instead of option buying
+	•	Use VWAP Auto Anchor in Option Chart, With Anchor Period as Century
+	•	The bounces from this VWAP are powerful, look for setup near this VWAP - it can be use for entry or target
+￼
+	•	TL Or resistance is the main target / other EMAs and VWAPs are far partial bookings
+	•	during reversal trades, it is better to do partial booking because anytime price can reverse quickly
+	•	1hr and 4hr are in momentum.so we should be very cautions in short trades against larger TF trend, as any dip will be used for buying chance for big players, hence market recovers quickly
+	•	 options buying only if 3 mins TF 50 EMA > 200 EMA..
+	•	reversal trade with 15 mins and 5 mins divergences
+	•	Support, resistance and major TL in 15 mins.... and small TLs in 5 mins
+	•	major TL means connecting price of 2 to 3 days
+	•	5 mins TL is mainly for intraday swing
+	•	sometimes, SPOT will touch a resistance and starts coming down,, but that time if you look at options, you will see the divergences clearly
+	•	You need to know when to use what...spot is for trend identification, and booking targets and to decide when not to take long trades based on resistance zones..
+	•	when you know which direction to go, then look for setups in options and entry only when option chart gives go ahead
+	•	 option chart can also be used for targets
+	•	 Spot resistance is first parameter
+	•	Next Option chart divergence is must
+	•	If spot divergence is there then great, otherwise be cautious
+	•	 
+	•	Divergence – need to check in both swing high and lows for double Bottom | Top
+￼
+	•	only if you stick to max of 2 trades in a day, you will follow these rules..otherwise mind will take control
+	•	 
+	•	Shift your focus FROM Amt of Money per Week TO % of accurate trades in a week
+	•	 That way, you can increase your winning rate...The moment, we go beyond 70% winning rate, then you will not have any fear of losing money
+	•	 then it becomes easy to increase the qty
+	•	here are people with 30 to 40% winning rate and still make money in long term, but it is very tough to have that kind of mental strength... Hence i prefer to keep decent winning rate rather than stressing on continues losses..
+	•	 
+	•	ALGO can make around 20 to 30% per year if option selling based...but if you need more than that then manual trading is must
+	•	try to excel in manual trading with mind control...then sky is the limit
+	•	 
+	•	You may use RSI TL BO or BD as additional confirmation for entry. Note that during entry, the RSI should have crossed above 40 for Bull and below 60 for Bear.
+	•	4h | Day RSI >60 & <40 means stronger momentum, do not trade against it esp. Over night, Min 2H TL BO should be there for Overnight position, 4H | Day – TB BO is much better
+	•	when the momentum is high use 5 EMA (for wave 3), if it is slow then 21 EMA is the trailing SL
+	•	Option price behave like Elliot corrective wave A-B-C, where wave C is impulsive with 5 waves.
+	•	Gold - Weekly TF - Oct,2023 - TL BO - 7% Risk, but it has given over 100% return if we just followed 21 EMA candle close trailing
+	•	 
+	•	 shooting star at the top is dangerous, usually price takes resistance at 62 to 78% of shooting start and comes down again
+	•	if the shotting star top is broken out then bulls are back
+	•	i draw TL based on 5 mins, but try to decide based on 3 mins BO candle
+	•	Watch out Bank Nifty, Sensex, CNX Finance & Nifty Mid Select – these patterns can give clue even future movement to Nifty movement.
+	•	GIFT Nifty can give better price pattern and TL BO due to more continues price available esp. During morning trades
+	•	Also Keep watching for CPR and Previous Day High and Low for support and resistance
+	•	Watchout for Double Bottom and RS Zones
+	•	After BO or during movement, there might be consolidations, watch the price pattern in 1 min or 30 sec chart and enter when price BOs – TL | Rectangles.
+	•	Retracements may find support at 38.2% ~ 50% ~ 61.8% levels.
+	•	Dhan broker give both SL and Target Order
+	•	 
+	•	Double Top & Double Bottom
+	•	Against the Trend Reversal Double Bottom - Regular  Bullish Divergence - Price making either Equal Low or making lower low, But RSI making Higher Low
+	•	Trend Based Double Bottom - Opposite Divergence - Price making either Equal Low or higher low But RSI making Lower Low
+￼
+ 
+	•	 
+	•	Candle patter
+￼
+ 
 How to Draw Trend Line (TL)
-	• TL should always start from the top
-	• Trend line should not cut body, try to fit trend as many swings as possible
-	• find a TL that has 3 touch points before the BO. (can view to lower TF like 1 min | 3 min) 
-	
-	
-
+	•	TL should always start from the top
+	•	Trend line should not cut body, try to fit trend as many swings as possible
+	•	find a TL that has 3 touch points before the BO. (can view to lower TF like 1 min | 3 min)
+ 
+ 
+ 
 Core Values:
-	• Sport – 3 min | 5 min | 15 min, every entry check Spot for Bullish or Bearish, first 45 min TL BO entry w.r.t GIFT nifty ( & Exit Previous Candle break, After that HTHB, LTLB, TL BO 
-	• Buy option only when 1) price is above 21 ema 2) TL BO 3) Double Bottom with divergence 
-	• Re-Entry Option + Sport concur: 1) Super Agg. (Solid Cd low not broken) - pre. candle high break 2)  Candle close above Failed BO wick / swing 3) Trend line BO CCM 4) Clear candle close above range of candles > 5. [never buy as it is cheap, SL will hit]
-
-
+	•	Sport – 3 min | 5 min | 15 min, every entry check Spot for Bullish or Bearish, first 45 min TL BO entry w.r.t GIFT nifty ( & Exit Previous Candle break, After that HTHB, LTLB, TL BO
+	•	Buy option only when 1) price is above 21 ema 2) TL BO 3) Double Bottom with divergence
+	•	Re-Entry Option + Sport concur: 1) Super Agg. (Solid Cd low not broken) - pre. candle high break 2)  Candle close above Failed BO wick / swing 3) Trend line BO CCM 4) Clear candle close above range of candles > 5. [never buy as it is cheap, SL will hit]
+ 
+ 
 Daily Trade lesions:
-	• Failed to keep Trailing SL to reap full benefit 
-	• Keep proper initial SL & trail SL either previous candle low or 5 EMA in 3 min | 5 min
-	• Bet downside when RSI is above 60 in both 15 min & 60 min 
-	• Brought option without TL Break 
-	• Partial booking is not done, close with buy price without any profit 
-	• Do not rebuy near option resistance as well as Spot RS zone. Wait for clear breakout otherwise rebuy will hit stoploss in consolidation 
-	• A breakout may hit stop loss, but if it breaks out again in the same direction then the move will be very strong. This is to weed out  weak hands.
-	• Better use 5 min close confirmation than 3 min  close confirmation, 3 min can be used to draw trend lines
-	• SL also 5 min solid candle low is good or Red low in case red-green-green, in case of 3 min swing low will be better. In case there is slow movement 
-	• Don’t risk much against trend as well as when OI & change OI is not supporting 
-	• Always trade for break out, do not buy as it is cheap and keep SL it will bound to fail 
-	
-	TB Deleted:
-	○ Aggressive - but Solid candle low | TSL broken | Swing low not broken | Higher Top Higher Bottom >>> 
-		▪ If Swings available in 1 min chart, then Draw TL connecting Swings, enter when TL BO in 3 min CCC. 
-		▪ If too Steep to draw TL | No swings available in 1 min >> Enter when Solid Green Engulf CCC in 3 min above solid red candle high | failed wick High 
-		▪ BO above range of candle > 5 & CCC in 3 min 
-	Spot direction not violated -  if two Swing high available >>> Trend line BO + CCC is must, SL below entry | entry N-1 candle low | Best swing low if it is near 
-	○ Sport direction not violated, Swing broken, If no visible swing to draw trend-line | XL size candle >>>  re-enter when price retrace more than 50~60% in trend side + CCC
-	○ Super Aggressive continues solid candle only, reversal >60% CCC wrt previous Swing | 3x 5 min candle engulf CCC (15 min) - which ever is faster 
-	○ Do NOT re-enter near resistance / support zone, unless a clear 5 min | 15 min CCC in Spot above / below RS zone / TL line
-	○ After 2 continues Stop-loss, stop trading check for range bound trading in spot 
-	• Do NOT go below 3 min for Entry, if market is slow moving use 5 min 
-		○ Draw TL Conn. Swing only – TL BO, (Check Swing  using - LuxAlgo Lookback '3')
-		○ Swing BO Lower Top | Higher Bottom on the left, 5 continues candle BO candle close can be equal to TL BO,  3 x 5 min (=15 min) Solid candle engulf can be reversal if other factors support it like Resistance | Support | Trend line + Double Top | Bottom provided above Sport 15 min TF direction is not violated 
-
+	•	Failed to keep Trailing SL to reap full benefit
+	•	Keep proper initial SL & trail SL either previous candle low or 5 EMA in 3 min | 5 min
+	•	Bet downside when RSI is above 60 in both 15 min & 60 min
+	•	Brought option without TL Break
+	•	Partial booking is not done, close with buy price without any profit
+	•	Do not rebuy near option resistance as well as Spot RS zone. Wait for clear breakout otherwise rebuy will hit stoploss in consolidation
+	•	A breakout may hit stop loss, but if it breaks out again in the same direction then the move will be very strong. This is to weed out  weak hands.
+	•	Better use 5 min close confirmation than 3 min  close confirmation, 3 min can be used to draw trend lines
+	•	SL also 5 min solid candle low is good or Red low in case red-green-green, in case of 3 min swing low will be better. In case there is slow movement
+	•	Don’t risk much against trend as well as when OI & change OI is not supporting
+	•	Always trade for break out, do not buy as it is cheap and keep SL it will bound to fail
+ 
+TB Deleted:
+	•	Aggressive - but Solid candle low | TSL broken | Swing low not broken | Higher Top Higher Bottom >>>
+	•	If Swings available in 1 min chart, then Draw TL connecting Swings, enter when TL BO in 3 min CCC.
+	•	If too Steep to draw TL | No swings available in 1 min >> Enter when Solid Green Engulf CCC in 3 min above solid red candle high | failed wick High
+	•	BO above range of candle > 5 & CCC in 3 min
+Spot direction not violated -  if two Swing high available >>> Trend line BO + CCC is must, SL below entry | entry N-1 candle low | Best swing low if it is near
+	•	Sport direction not violated, Swing broken, If no visible swing to draw trend-line | XL size candle >>>  re-enter when price retrace more than 50~60% in trend side + CCC
+	•	Super Aggressive continues solid candle only, reversal >60% CCC wrt previous Swing | 3x 5 min candle engulf CCC (15 min) - which ever is faster
+	•	Do NOT re-enter near resistance / support zone, unless a clear 5 min | 15 min CCC in Spot above / below RS zone / TL line
+	•	After 2 continues Stop-loss, stop trading check for range bound trading in spot
+	•	Do NOT go below 3 min for Entry, if market is slow moving use 5 min
+	•	Draw TL Conn. Swing only – TL BO, (Check Swing  using - LuxAlgo Lookback '3')
+	•	Swing BO Lower Top | Higher Bottom on the left, 5 continues candle BO candle close can be equal to TL BO,  3 x 5 min (=15 min) Solid candle engulf can be reversal if other factors support it like Resistance | Support | Trend line + Double Top | Bottom provided above Sport 15 min TF direction is not violated
+ 
 Reversal Conditions – Sport & Option Chart:
-	• Never try for reversal if RSI in 15 min | 1 hr. >60 and <40, Always trend for Trend Side entry instead of counter trend 
-	• Double Top | Bottom near important Resistance Support (RS) Zone / Trend Line (TL), these should be nearby not far away 
-	• Trend Line should be below <45 degree, steep TL indicate either very strong trend | Too steep Swings 
-	• Bull to Bear: - There should be 3 Swing highs and 2 Swing lows to draw support TL 1) if  last Swing high is Lower High enter immediately once TL BO, 2) if wait for retracement to extended Trend line resistance if last swing high is higher high 
-	• Price should be beyond 50 EMA w.r.t direction in 5 min
-	• Spot & Option – Reversal Raconsidered only if all the condition satisfy – 15 min Swing BO CCC | beyond 50% retracement in 15 min if Swing is too large & 5 min CCC + 5 min TL BO CCC  +  1x or 2x Swing BO in 5 min CCC + 15 min RSI Divergence with DT | DB + Strong RS | TL Zone + Price not near Swing High | Low for double Top | Bottom + RSI in 15 min | 1 hr. not > 60 | < 40
-	• Note >> Lower Top | Higher Bottom, Swing before new High | Low, not corrective Swing & Do not Consider 1 min | 3 min Swing for reversal
-	• Entry only when Option price is above 21 EMA in 3 min | 5 min, use 5 min if there is strong down trend.
-	• To get clarity on swing use  'LuxAlgo Trend – with Swing deduction lookback – 3 setting' 
-
+	•	Never try for reversal if RSI in 15 min | 1 hr. >60 and <40, Always trend for Trend Side entry instead of counter trend
+	•	Double Top | Bottom near important Resistance Support (RS) Zone / Trend Line (TL), these should be nearby not far away
+	•	Trend Line should be below <45 degree, steep TL indicate either very strong trend | Too steep Swings
+	•	Bull to Bear: - There should be 3 Swing highs and 2 Swing lows to draw support TL 1) if  last Swing high is Lower High enter immediately once TL BO, 2) if wait for retracement to extended Trend line resistance if last swing high is higher high
+	•	Price should be beyond 50 EMA w.r.t direction in 5 min
+	•	Spot & Option – Reversal Raconsidered only if all the condition satisfy – 15 min Swing BO CCC | beyond 50% retracement in 15 min if Swing is too large & 5 min CCC + 5 min TL BO CCC  +  1x or 2x Swing BO in 5 min CCC + 15 min RSI Divergence with DT | DB + Strong RS | TL Zone + Price not near Swing High | Low for double Top | Bottom + RSI in 15 min | 1 hr. not > 60 | < 40
+	•	Note >> Lower Top | Higher Bottom, Swing before new High | Low, not corrective Swing & Do not Consider 1 min | 3 min Swing for reversal
+	•	Entry only when Option price is above 21 EMA in 3 min | 5 min, use 5 min if there is strong down trend.
+	•	To get clarity on swing use  'LuxAlgo Trend – with Swing deduction lookback – 3 setting'
+ 
 Daily mistakes:
-	• Never buy without Candle Close Confirmation esp 5 min 
-	• 
+	•	Never buy without Candle Close Confirmation esp 5 min
+	•	 
+
+
