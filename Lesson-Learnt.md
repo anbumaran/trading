@@ -1,8 +1,8 @@
-~-~-~Praise The LORD JESUS~-~-~ 
+    Praise The LORD JESUS
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you. 
 - James 1:5 
 
-• Spot M(O~1Hr): Gap Open, Option E: TL BO in 15 min, First 3 min CCC & TSL - 1 / 3 min | 1 min TL BO - 1:3 / 1:4 RR T 
+• Spot M(O-1Hr): Gap Open, Option E: TL BO in 15 min, First 3 min CCC & TSL - 1 / 3 min | 1 min TL BO - 1:3 / 1:4 RR T 
 • Spot M: between RS 15 min in TF E: 10 <> 20 <>50 EMA. No Trade if 10 EMA not aligned, E if 15 min TL BO | All 3 EMA aligned 
 • Option E: 3 min Slant TL BO + >20 EMA + HL (A clear HL at least in 1 min) 
 • Spot RS BO & Retest - 3 | 5 mins TF near 50 EMA + TL BO + 20<>50<>200EMA 
