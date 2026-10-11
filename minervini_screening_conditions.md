@@ -68,6 +68,25 @@
 ) )
 ```
 
+```
+( {cash} (
+  latest close > latest sma( close, 50 ) and
+  latest sma( close, 50 ) > latest sma( close, 150 ) and
+  latest sma( close, 150 ) > latest sma( close, 200 ) and
+  latest sma( close, 200 ) > 21 days ago sma( close, 200 ) and
+  latest close >= 1.3 * min( 252, latest low ) and
+  latest close >= 0.75 * max( 252, latest high ) and
+  latest close / 126 days ago close >= 1.2 and
+  latest close >= 10 and
+  latest sma( volume, 50 ) * latest close >= 10000000 and
+
+  latest "Net Sales[quarter]" >= 1.2 * 4 quarters ago "Net Sales[quarter]" and
+  latest "Net Profit[quarter]" >= 1.25 * 4 quarters ago "Net Profit[quarter]" and
+  4 quarters ago "Net Profit[quarter]" > 0 and
+  latest "Operating profit margin[qr]" > 4 quarters ago "Operating profit margin[qr]"
+) )
+```
+
 | Rule | Covered by |
 |---|---|
 | Price > 50 > 150 > 200 DMA | Lines 1-3 |
