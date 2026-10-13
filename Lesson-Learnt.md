@@ -1,38 +1,46 @@
-             Praise The LORD JESUS
+       Praise The LORD JESUS
 If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.  James 1:5
 
-	•	Spot M Gap Open. Option E: TL BO in 15 min, First 3 min CCC & TSLz 1 / 3 min | O-1Hr Aggressive move: 1 min TL BO  1:3 / 1:4 RR T
-	•	Spot M between RS 15 min TF - 10 <> 20 <>50 EMA. No Trade if 10 EMA not aligned, Re-Enter if 15 min TL BO | All 3 EMA aligned Option E: 3 min Slant TL BO + >20 EMA + HL
-	•	Spot M RS BO & Retest 3 | 5 mins TF near 50 EMA + TL BO + 20<>50<>200EMA. Option E: 3 min | 1 min (>200 EMA) - M/E Star | B/B Engulfing opposite color solid cd  | TL BO | Cons. BO | > 20 EMA
-	•	Spot Rev M 15 min D T|B @ RS + RSI div & 5 min: TL BO (3 Sw TL) + HL / LH + Sw BO | Intraday BO RS [Pre & Cur Day H/L, CPR, Chan, TL]. Option Late E after Spot Rev Conf. RR always TL BO point irrespective of Late E
-	•	Option Early E.: DB | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL always be in 3 min)
-	•	Low Move day: Spot RS | TL. Strong Trending Day: Elliot W | RR Targets can break any RS
-	•	Consol 15 min: Ranged btw Box | Channel – 2x Sw H&L. 5 min: Closer Sw, Multitouch & Flat - 50 EMA & VWAP | ADX < 20 
-	•	Valid TL BO: 1) Clear Swings in 3 min 2) Non Flat | Non faraway Steep Swing H 2) Clear CCC > 20 EMA 4) Higher Low 5) At least 1 Swing H > 20 EMA 6) Exception: Early entry cases DB | False BO Rev | Aggressive move | Gap Open BO ~ 1 Hr  Valid TL BO: 1) Clear Sw 2) Non Flat | Non faraway Steep Sw H 2) Clear CCC > 20 EMA 4) Higher L 5) Atleast 1 Sw H > 20 EMA 6) Except:  EarlyE DB | False BO Rev | Agg move
-	•	iSL~BO: Sw Lo | Sd Cd Lo + <20EMA 3 min
-	•	SL - Closer of [Sw Lo | Solid G.Cd. Low - before High]. TSL: <1:2 Large,  >1:2 Tight
-	•	No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. Super move beyond >1:3RR use 1:4 | hold till bearish pattern Evening Star | Bearish Engulf 
-	•	iSL | TSL hit - wait for O3ME, Not O1ME
-	•	Option - EW. ABC if 50<200 EMA | Counter Trend | Corrective move  
-	•	Option - Impulsive EW 1-2-3-4 if 50>200 EMA | Trend Side Impulsive move, keep max target like 1:3 | 1:4 RR | based on Spot RS zone  
-	•	Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m) Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL. No Trade after 3 pm (last 40 min)
+* No Overnight Pos due to high loss probability 
+* Spot M Gap Open. Option E: TL BO in 15 min, diff between 3 min CCC after BO (anywhere N / N-1 day) & Solid Cd L | Swing L | ORB low | 1 min cd low for RR | TSL 1 / 3 min | If Spot consol @ RS Zone - 3 x 5 min Cd. O~1Hr Agg move: 1 min TL BO  1:3 / 1:4 RR
+* Aggressive day Option Targets are decided by Elliot Wave Projections | RR levels, max Swing low is used for max 1:4 RR Targets. 
+* Increase Risk Sw Lo for higher RR Targets, if initial 1:3 RR Targets achieved & BO CCC above it and next Cd sustains the move. 
+* Spot M between RS 15 min TF - 10 <> 20 <>50 EMA. No Trade if 10 EMA not aligned, Re-Enter if 15 min TL BO | All 3 EMA aligned Option E: 3 min Slant TL BO + >20 EMA + HL
+* Spot M RS BO & Retest 3 | 5 mins TF near 50 EMA + TL BO + 20<>50<>200EMA. Option E: 3 min | 1 min (>200 EMA) - M/E Star | B/B Engulfing opposite color solid cd  | TL BO | Cons. BO | > 20 EMA
+* Spot Rev M 15 min D T|B @ RS + RSI div 
+* 5 min: Rev BO of Sw before recent H / L + LH / HL + Consider Complex Correction | 2x Sd CCC [No False BO Rev]. Intraday BO RS: Pre & Cur Day H/L, CPR, Chan, D B|T, 15 min TL, Sw BO before new H/L + HTHB<>LTLB + 5 min CCC. Option Late E after Spot Rev Conf. RR always TL BO point irrespective of Late E. (Better avoid Rev Trade and late entry trade due to Big SL risk)
+* Option Early E.: DB | False BO / SL hunt Rev - Solid Red Cd Engulf +  CCC  >20EMA 3 min | 1 min CCC TL BO (TL always be in 3 min)
+* Low Move day: Spot RS | TL. Strong Trending Day: Elliot W | RR Targets can break any RS
+* Consol 15 min: Ranged btw Box | Channel – 2x Sw H&L. 5 min: Closer Sw, Multitouch & Flat - 50 EMA & VWAP | ADX < 20 
+* Valid TL BO: 1) Clear Swings in 3 min 2) Non Flat | Non faraway Steep Swing H 2) Clear CCC > 20 EMA 4) Higher Low 5) At least 1 Swing H > 20 EMA 6) Except: Early E case DB | False BO Rev | Agg move | Gap Open BO ~ 1 Hr  Valid TL BO: 1) Clear Sw 2) Non Flat | Non faraway Steep Sw H 2) Clear CCC > 20 EMA 4) Higher L 5) Atleast 1 Sw H > 20 EMA 6) Except:  EarlyE DB | False BO Rev | Agg move 7) Far TL for HL & Count. Trend
+* iSL~BO: Sw Lo | Sd Cd Lo + <20EMA 3 min
+* SL - Closer of [Sw Lo | Solid G.Cd. Low - before H]. TSL: <1:2 Large,  >1:2 Tight, <15% 
+* After hitting 1:1 RR Target, move iSL to TSL
+* No overtrade near RS Zone, Fix 3 min 1:1 | 1:2 | 1:3 RR Targets based on RS Zone. Super move beyond >1:3RR use 1:4 | hold till bearish pattern Evening Star | Bearish Engulf 
+* iSL | TSL hit - wait for O3ME, Not O1ME
+* Initial TL BO & RR Targets important, confluence of later RR Targets 
+* Option - EW. ABC if 50<200 EMA | Counter Trend | Corrective move  
+* Option - Impulsive EW 1-2-3-4 if 50>200 EMA | Trend Side Impulsive move, keep max target like 1:3 | 1:4 RR | based on Spot RS zone  
+* Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL hits. No Trade after 3 pm (last 40m) Per Day: Max 4 Trades [O~11~12:30~2~C] & Max 2 SL. No Trade after 3 pm (last 40 min)
+* Option price should be between 100-160
 
  
 Abbreviations
-	•	BO - Break Out
-	•	RS - Resistance | Support
-	•	TF - Time Frame
-	•	EMA - Exponential Moving Average
-	•	HL - Higher Low
-	•	LW - Lower High
-	•	SL – Stop Loss
-	•	TSL – Trailing Stop Loss
-	•	D - Double
-	•	T - Top
-	•	Tgt - Target
-	•	B - Bottom
-	•	RR - Risk vs Reward
-	•	Sw – Swing
+* BO - Break Out
+* RS - Resistance | Support
+* TF - Time Frame
+* EMA - Exponential Moving Average
+* HL - Higher Low
+* LW - Lower High
+* SL – Stop Loss
+* TSL – Trailing Stop Loss
+* D - Double
+* T - Top
+* Tgt - Target
+* B - Bottom
+* RR - Risk vs Reward
+* Sw – Swing
+ 
  
 Sport Trend Direction:
 	•	Move between RS 15 min in TF Entry:
